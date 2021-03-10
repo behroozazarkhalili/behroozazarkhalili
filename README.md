@@ -11,5 +11,5 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 💬 Ask me about DL, NLP, and Life Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
-[![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
+[![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
