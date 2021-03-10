@@ -24,15 +24,15 @@ I'm a data scientist working on the applications of deep learning on life langua
 -->
 
 <a href="http://github.com/tensorflow/addons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=flag-india" width="500" height="200" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=flag-india" width="400" height="200" /> 
 </a>
 <a href="http://github.com/deepchem/deepchem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india" width="500" height="200" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india" width="400" height="200" /> 
 </a>
 
 
 <a href="http://github.com/tensorflow/tensorflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india" width="500" height="200" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india" width="400" height="200" /> 
 </a>
 
 
