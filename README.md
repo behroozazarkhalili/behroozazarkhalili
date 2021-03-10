@@ -36,4 +36,8 @@ I'm a data scientist working on the applications of deep learning on life langua
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india" width="400" height="150" /> 
 </a>
 
+<a href="https://github.com/danielegrattarola/spektral/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielegrattarola&repo=spektralw&show_owner=true&theme=flag-india" width="400" height="150" /> 
+</a>
+
 
