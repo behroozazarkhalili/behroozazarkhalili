@@ -16,3 +16,5 @@ I'm a data scientist working on the applications of deep learning on life langua
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=tensorflow)](http://github.com/tensorflow)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
