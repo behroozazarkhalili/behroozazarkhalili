@@ -7,7 +7,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 🔬 
 - 🧠 I’m currently learning [Hugginface](https://github.com/huggingface/nlp), [Deep Graph Library](https://github.com/dmlc/dgl). 
 - ⚙️ I am exploiting `Python`, `Tensorflow`, `Pytorch`, `Scikit-Learn`, `Pandas`, `Transformers`, `Spektral`, and `DGL`.
-- 👯 I’m looking to collaborate on deep learning for life language processing and computational biology.
+- :people_holding_hands: I’m looking to collaborate on deep learning for life language processing and computational biology.
 - 💬 Ask me about DL, NLP, and Life Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
