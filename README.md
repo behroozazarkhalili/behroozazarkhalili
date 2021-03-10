@@ -13,4 +13,4 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behroozazarkhalili&repo=Tensorflow)](http://github.com/tensorflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow)](http://github.com/tensorflow)
