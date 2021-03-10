@@ -18,6 +18,6 @@ I'm a data scientist working on the applications of deep learning on life langua
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=tensorflow)](http://github.com/tensorflow/tensorflow)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=addons)](http://github.com/tensorflow/addons)
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=tensorflow&theme=flag-india)](http://github.com/tensorflow/tensorflow)
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=addons&theme=flag-india)](http://github.com/tensorflow/addons)
 
