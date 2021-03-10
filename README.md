@@ -11,6 +11,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 💬 Ask me about DL, NLP, and Life Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
+#
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,15 +25,15 @@ I'm a data scientist working on the applications of deep learning on life langua
 -->
 
 <a href="http://github.com/tensorflow/addons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=flag-india" width="400" height="200" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=flag-india" width="400" height="150" /> 
 </a>
 <a href="http://github.com/deepchem/deepchem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india" width="400" height="200" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india" width="400" height="150" /> 
 </a>
 
 
 <a href="http://github.com/tensorflow/tensorflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india" width="400" height="200" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india" width="400" height="150" /> 
 </a>
 
 
