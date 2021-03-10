@@ -21,11 +21,17 @@ I'm a data scientist working on the applications of deep learning on life langua
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india)](http://github.com/tensorflow/tensorflow)
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
 
-<!---
+
 <a href="http://github.com/tensorflow/addons">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=flag-india" width="500" height="500" /> 
 </a>
+<a href="http://github.com/deepchem/deepchem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india" width="500" height="500" /> 
+</a>
+
+#
 <a href="http://github.com/tensorflow/tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india" width="500" height="500" /> 
 </a>
--->
+
+
