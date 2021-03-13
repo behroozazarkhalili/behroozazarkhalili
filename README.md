@@ -14,7 +14,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 #
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-# [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=today&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+# [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=last_30_days&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <!--- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
 -->
