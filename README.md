@@ -11,7 +11,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 💬 Ask me about DL, NLP, and Life Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
-Technologies and tools
+## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
