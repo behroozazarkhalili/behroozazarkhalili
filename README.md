@@ -22,9 +22,9 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 
 # 
-# [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+# [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-# [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=last_7_days&v=2&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+# [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=last_7_days&v=2&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <!--- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -34,17 +34,17 @@ I'm a data scientist working on the applications of deep learning on life langua
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
 -->
 <a href="http://github.com/tensorflow/tensorflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=buefy" width="400" height="150" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=graywhite" width="400" height="150" /> 
 </a>
 <a href="https://github.com/danielegrattarola/spektral/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielegrattarola&repo=spektral&show_owner=true&theme=buefy" width="400" height="150" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielegrattarola&repo=spektral&show_owner=true&theme=graywhite" width="400" height="150" /> 
 </a>
 
 <a href="http://github.com/tensorflow/addons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=buefy" width="400" height="150" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=graywhite" width="400" height="150" /> 
 </a>
 <a href="http://github.com/deepchem/deepchem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=buefy" width="400" height="150" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=graywhite" width="400" height="150" /> 
 </a>
 
 
