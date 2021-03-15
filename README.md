@@ -12,7 +12,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
 ## 	:desktop_computer: Languages
-<p align="left"> <a href="https://python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=Python" alt="Python logo" title="Python" height="25" /> </a> <a href="https://scala-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=red" alt="Scalalogo" title="Scala" height="25" /> </a></p>
+<p align="left"> <a href="https://python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=Python" alt="Python logo" title="Python" height="25" /> </a> <a href="https://https://www.r-project.org/" target="_blank"> <img src="https://img.shields.io/badge/R-282C34?logo=R" alt="R logo" title="R" height="25" /> </a> <a href="https://scala-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=red" alt="Scalalogo" title="Scala" height="25" /> </a>  </p>
 
 ## 🛠  Technologies and Tools
 
