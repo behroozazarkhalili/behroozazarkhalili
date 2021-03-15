@@ -11,7 +11,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 💬 Ask me about DL, NLP, and Life Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
-<p align="left"> <a href="https://tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/Tensorflow-282C34?logo=tensorflow" alt="Tensorflow logo" title="Tensorflow" height="25" /> </a> <a href="https://pyotrch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch" alt="Pytroch logo" title="Pytorch" height="25" /> </a> <a href="https://pyotrch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pycharm-282C34?logo=pycharm" alt="Pycharm logo" title="Pycharm" height="25" /> </a></p>
+<p align="left"> <a href="https://tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/Tensorflow-282C34?logo=tensorflow" alt="Tensorflow logo" title="Tensorflow" height="25" /> </a> <a href="https://pyotrch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch" alt="Pytroch logo" title="Pytorch" height="25" /> </a> <a href="https://pyotrch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pycharm-282C34?logo=pycharm" alt="Pycharm logo" title="Pycharm" height="25" /> </a> <a href="https://sklearn.org/" target="_blank"> <img src="https://img.shields.io/badge/ScikitLearn-282C34?logo=scikit-learn" alt="ScikitLearn logo" title="Pycharm" height="25" /> </a> </p>
 
 
 
