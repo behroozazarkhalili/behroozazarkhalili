@@ -40,8 +40,8 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 <a href="https://www.office.com/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft Office-282C34?logo=microsoft-office&logoColor=ffffff" alt="Microsoft Office logo" title="Microsoft Office" height="25"/> </a> <a href="https://www.libreoffice.org/" target="_blank"> <img src="https://img.shields.io/badge/LibreOffice-282C34?logo=libreoffice&logoColor=ffffff" alt="Libre Offic logo" title="Libre Offic" height="25"/> </a> </p>
 
-## :books: Contact Me 
-<p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="https://arxiv.org/search/stat?searchtype=author&query=Azarkhalili%2C+B" target="_blank"> <img src="https://img.shields.io/badge/Arxiv-282C34?logo=arxiv&logoColor=B31B1B" alt="Arxiv logo" title="Arxiv" height="25" /> </a> </p>
+## :mailbox_closed: Contact Me 
+<p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="mailto:ermiaazarkhalili@gmail.com?"> <img src="https://img.shields.io/badge/gmail--282C34&logo=gmail"> </a> </p>
 
 
 # 
