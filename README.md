@@ -12,8 +12,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
 ## :books: Publications
-<p align="left"> <a href="https://scholar.google.com/citations?user=Jid12csAAAAJ&hl=en" target="_blank"> <img src="https://img.shields.io/badge/Google Scholar-282C34?logo=google-scholar&logoColor=4D90FE" alt="Google Scholar logo" title="Google Scholar" height="25" /> </a>  </p>
-
+<p align="left"> <a href="https://scholar.google.com/citations?user=Jid12csAAAAJ&hl=en" target="_blank"> <img src="https://img.shields.io/badge/Google Scholar-282C34?logo=google-scholar&logoColor=4D90FE" alt="Google Scholar logo" title="Google Scholar" height="25" /> </a> <a href="https://arxiv.org/search/stat?searchtype=author&query=Azarkhalili%2C+B" target="_blank"> <img src="https://img.shields.io/badge/Arxiv-282C34?logo=arxiv&logoColor=4D90FE" alt="Arxiv logo" title="Arxiv" height="25" /> </a> </p>
 
 
 ## 	:desktop_computer: Programming Languages
