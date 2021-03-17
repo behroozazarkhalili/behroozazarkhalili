@@ -16,7 +16,7 @@ I'm a data scientist working on the applications of deep learning on life langua
  
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/Mathworks-282C34?logo=mathworks&logoColor=F78F10" alt="Matlab logo" title="Matlab" height="25" /> </a> <a href="https://www.wolfram.com/mathematica/" target="_blank"> <img src="https://img.shields.io/badge/Wolfram Mathematica-282C34?logo=wolfram-mathematica&logoColor=DA2011" alt="Mathematica logo" title="Mathematica" height="25" /> </a> 
 
-<a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/Latex-282C34?logo=latex&logoColor=AFCB1E" alt="Latex logo" title="Latex" height="25" /> </a> <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank"> <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown" alt="Markdown logo" title="Markdown" height="25" /> </a> </p>
+<a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/Latex-282C34?logo=latex&logoColor=AFCB1E" alt="Latex logo" title="Latex" height="25" /> </a> <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank"> <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=93C6F4" alt="Markdown logo" title="Markdown" height="25" /> </a> </p>
 
 
 
