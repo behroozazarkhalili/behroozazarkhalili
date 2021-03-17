@@ -14,7 +14,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 -->
 
 ## :mailbox_closed: Contact Me 
-<p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="mailto:ermiaazarkhalili@gmail.com?"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" /> </a> <a href="skype:<behrooz.azarkhalili>?call">Call</a> <img src="https://img.shields.io/badge/Skype-282C34?logo=skype" alt="Skype logo" title="Skype" height="25" /> </a> </p>
+<p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="mailto:ermiaazarkhalili@gmail.com?"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" /> </a> <a href="skype:<behrooz.azarkhalili>?call"> <img src="https://img.shields.io/badge/Skype-282C34?logo=skype" alt="Skype logo" title="Skype" height="25" /> </a> </p>
 
 
 
