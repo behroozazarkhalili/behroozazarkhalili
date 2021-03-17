@@ -13,6 +13,9 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 -->
 
+## :mailbox_closed: Contact Me 
+<p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="mailto:ermiaazarkhalili@gmail.com?"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" /> </a> </p>
+
 ## :books: Publications
 <p align="left"> <a href="https://scholar.google.com/citations?user=Jid12csAAAAJ&hl=en" target="_blank"> <img src="https://img.shields.io/badge/Google Scholar-282C34?logo=google-scholar&logoColor=4D90FE" alt="Google Scholar logo" title="Google Scholar" height="25" /> </a> <a href="https://arxiv.org/search/stat?searchtype=author&query=Azarkhalili%2C+B" target="_blank"> <img src="https://img.shields.io/badge/Arxiv-282C34?logo=arxiv&logoColor=B31B1B" alt="Arxiv logo" title="Arxiv" height="25" /> </a> </p>
 
@@ -39,9 +42,6 @@ I'm a data scientist working on the applications of deep learning on life langua
 <p align="left">  </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=ffffff" alt="VS Code logo" title="VS Code" height="25" /> </a> <a href="https://https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/Pycharm-282C34?logo=pycharm" alt="Pycharm logo" title="Pycharm" height="25" /> </a> <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/Intellij IDEA-282C34?logo=intellij-idea" alt="Intellij IDEA logo" title="Intellij IDEA" height="25" /> </a> <a href="https://rstudio.com" target="_blank"> <img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=ffffff" alt="RStudio logo" title="RStudio" height="25" /> </a> 
 
 <a href="https://www.office.com/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft Office-282C34?logo=microsoft-office&logoColor=ffffff" alt="Microsoft Office logo" title="Microsoft Office" height="25"/> </a> <a href="https://www.libreoffice.org/" target="_blank"> <img src="https://img.shields.io/badge/LibreOffice-282C34?logo=libreoffice&logoColor=ffffff" alt="Libre Offic logo" title="Libre Offic" height="25"/> </a> </p>
-
-## :mailbox_closed: Contact Me 
-<p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="mailto:ermiaazarkhalili@gmail.com?"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" /> </a> </p>
 
 
 # 
