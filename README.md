@@ -11,6 +11,11 @@ I'm a data scientist working on the applications of deep learning on life langua
 - 💬 Ask me about DL, NLP, and Life Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 
+## :books:
+<p align="left"> <a href="https://scholar.google.com/citations?user=Jid12csAAAAJ&hl=en" target="_blank"> <img src="https://img.shields.io/badge/Google Scholar-282C34?logo=google-scholar" alt="Google Scholar logo" title="Google Scholar" height="25" /> </a>  </p>
+
+
+
 ## 	:desktop_computer: Programming Languages
 <p align="left"> <a href="https://python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=Python" alt="Python logo" title="Python" height="25" /> </a> <a href="https://https://www.r-project.org/" target="_blank"> <img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=2266B8" alt="R logo" title="R" height="25" /> </a> <a href="https://scala-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=DC322F" alt="Scalalogo" title="Scala" height="25" /> </a> 
  
