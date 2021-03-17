@@ -42,6 +42,8 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 ## :books: Contact Me 
 <p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="https://arxiv.org/search/stat?searchtype=author&query=Azarkhalili%2C+B" target="_blank"> <img src="https://img.shields.io/badge/Arxiv-282C34?logo=arxiv&logoColor=B31B1B" alt="Arxiv logo" title="Arxiv" height="25" /> </a> </p>
+
+
 # 
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
