@@ -24,8 +24,6 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/Latex-282C34?logo=latex&logoColor=AFCB1E" alt="Latex logo" title="Latex" height="25" /> </a> <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank"> <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=93C6F4" alt="Markdown logo" title="Markdown" height="25" /> </a> </p>
 
-
-
 ## 🛠  Technologies and Tools
 
 <p align="left"> <a href="https://tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/Tensorflow-282C34?logo=tensorflow" alt="Tensorflow logo" title="Tensorflow" height="25" /> </a> <a href="https://pyotrch.org/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&style=flat" alt="Pytroch logo" title="Pytorch" height="25" /> </a> <a href="https://keras.io/" target="_blank"> <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras logo" title="Keras" height="25" /> </a> <a href="https://sklearn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit Learn-282C34?logo=scikit-learn" alt="ScikitLearn logo" title="Scikit Learn" height="25" /> </a> 
@@ -42,6 +40,8 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 <a href="https://www.office.com/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft Office-282C34?logo=microsoft-office&logoColor=ffffff" alt="Microsoft Office logo" title="Microsoft Office" height="25"/> </a> <a href="https://www.libreoffice.org/" target="_blank"> <img src="https://img.shields.io/badge/LibreOffice-282C34?logo=libreoffice&logoColor=ffffff" alt="Libre Offic logo" title="Libre Offic" height="25"/> </a> </p>
 
+## :books: Contact Me 
+<p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="https://arxiv.org/search/stat?searchtype=author&query=Azarkhalili%2C+B" target="_blank"> <img src="https://img.shields.io/badge/Arxiv-282C34?logo=arxiv&logoColor=B31B1B" alt="Arxiv logo" title="Arxiv" height="25" /> </a> </p>
 # 
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
