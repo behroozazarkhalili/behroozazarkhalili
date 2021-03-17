@@ -3,6 +3,7 @@
 
 I'm a data scientist working on the applications of deep learning on life language processing, computational drug discovery, and computational protemics as a visiting researcher in the [Mofrad Group](https://llp.berkeley.edu/people/) at the University of California, Berkeley.
 
+<!--- 
 - :man_technologist: I’m currently working on democratizing Deep Learning for the Life Sciences with [DeepChem](https://github.com/deepchem/deepchem), [Tensoflow](https://github.com/tensorflow), [Pytorch](https://github.com/pytorch), [Hugginface](https://github.com/huggingface/nlp), [Spektral](https://github.com/danielegrattarola/spektral/), [DGL](https://github.com/dmlc/dgl). I am working on developing sequence and graph based models for understanding computational protemics and structural biology.
 - 🧠 I'm a `Python`, `R`,  `Scala`, `Linux`, and `Latex` Expert.
 - 🌱 I’m currently learning [Huggingface](https://github.com/huggingface/nlp), [Deep Graph Library](https://github.com/dmlc/dgl). 
@@ -10,6 +11,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 - :people_holding_hands: I’m looking to collaborate on deep learning for life language processing and computational biology.
 - 💬 Ask me about DL, NLP, and Life Language Processing.
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
+-->
 
 ## :books: Publications
 <p align="left"> <a href="https://scholar.google.com/citations?user=Jid12csAAAAJ&hl=en" target="_blank"> <img src="https://img.shields.io/badge/Google Scholar-282C34?logo=google-scholar&logoColor=4D90FE" alt="Google Scholar logo" title="Google Scholar" height="25" /> </a> <a href="https://arxiv.org/search/stat?searchtype=author&query=Azarkhalili%2C+B" target="_blank"> <img src="https://img.shields.io/badge/Arxiv-282C34?logo=arxiv&logoColor=B31B1B" alt="Arxiv logo" title="Arxiv" height="25" /> </a> </p>
