@@ -39,9 +39,9 @@ I'm a data scientist working on the applications of deep learning on life langua
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=last_7_days&v=2&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-<!--- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india)](http://github.com/tensorflow/tensorflow)
