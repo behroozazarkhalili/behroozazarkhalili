@@ -43,10 +43,12 @@ I'm a data scientist working on the applications of deep learning on life langua
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!---
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india)](http://github.com/tensorflow/tensorflow)
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
+-->
 
+<!---
 <a href="http://github.com/tensorflow/tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=graywhite" width="400" height="150" /> 
 </a>
@@ -60,5 +62,5 @@ I'm a data scientist working on the applications of deep learning on life langua
 <a href="http://github.com/deepchem/deepchem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=graywhite" width="400" height="150" /> 
 </a>
-
+-->
 
