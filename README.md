@@ -41,7 +41,22 @@ I'm a data scientist working on the applications of deep learning on life langua
 # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=last_7_days&v=2&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+name: Waka Readme
 
+on:
+  schedule:
+    # Runs at 4pm IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
 
 <!---
