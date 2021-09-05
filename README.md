@@ -40,6 +40,8 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=last_7_days&v=2&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
