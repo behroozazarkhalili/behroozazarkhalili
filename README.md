@@ -37,7 +37,7 @@ I'm a data scientist working on the applications of deep learning on life langua
 ## :desktop_computer: OS
 <p align="left">  </a> <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu" alt="Ubuntu logo" title="Ubuntu" height="25" /> </a> <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux Mint-282C34?logo=linux-mint" alt="Mint logo" title="Mint" height="25" /> </a> <a href="https://www.debian.org/" target="_blank"> <img src="https://img.shields.io/badge/Debian-282C34?logo=debian&logoColor=D0074E" alt="Debian logo" title="Debian" height="25" /> </a> </p>
 
-
+##
 <!---
 # 
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
