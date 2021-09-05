@@ -38,12 +38,14 @@ I'm a data scientist working on the applications of deep learning on life langua
 <p align="left">  </a> <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu" alt="Ubuntu logo" title="Ubuntu" height="25" /> </a> <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux Mint-282C34?logo=linux-mint" alt="Mint logo" title="Mint" height="25" /> </a> <a href="https://www.debian.org/" target="_blank"> <img src="https://img.shields.io/badge/Debian-282C34?logo=debian&logoColor=D0074E" alt="Debian logo" title="Debian" height="25" /> </a> </p>
 
 ##
+
 <!---
 # 
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=behroozazarkhalili&range=last_7_days&v=2&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+##
 -->
 
 
@@ -111,6 +113,7 @@ Linux                    2 hrs 22 mins       ███████████�
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
 -->
 
+## 
 
 <a href="http://github.com/tensorflow/tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=nord" width="400" height="150" /> 
