@@ -115,6 +115,7 @@ Linux                    2 hrs 22 mins       ███████████�
 
 ## 
 
+<!---
 <a href="http://github.com/tensorflow/tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
@@ -129,4 +130,4 @@ Linux                    2 hrs 22 mins       ███████████�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
 
-
+-->
