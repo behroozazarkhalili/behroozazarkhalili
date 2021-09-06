@@ -39,6 +39,9 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 ##
 
+![Metrics](https://metrics.lecoq.io/behroozazarkhalili?template=classic&base.community=0&introduction=1&lines=1&introduction.title=true&config.timezone=USA%2FBerkeley)
+
+##
 <!---
 # 
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
@@ -113,8 +116,6 @@ Linux                    3 hrs 15 mins       ███████████�
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india)](http://github.com/tensorflow/tensorflow)
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
 -->
-
-![Metrics](https://metrics.lecoq.io/behroozazarkhalili?template=classic&introduction=1&projects=1&introduction.title=true&projects.limit=4&projects.descriptions=false&config.timezone=USA%2FBerkeley)
 
 ## 
 
