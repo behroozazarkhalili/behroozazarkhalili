@@ -39,9 +39,12 @@ I'm a data scientist working on the applications of deep learning on life langua
 
 ##
 
+<!---
 ![Metrics](https://metrics.lecoq.io/behroozazarkhalili?template=classic&base.community=0&introduction=1&lines=1&introduction.title=true&config.timezone=USA%2FBerkeley)
 
 ##
+-->
+
 <!---
 # 
 # [![Behrooz's github stats](https://github-readme-stats.vercel.app/api?username=behroozazarkhalili&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
