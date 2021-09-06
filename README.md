@@ -114,6 +114,8 @@ Linux                    3 hrs 15 mins       ███████████�
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
 -->
 
+![Metrics](https://metrics.lecoq.io/behroozazarkhalili)
+
 ## 
 
 <!---
