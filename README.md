@@ -56,7 +56,7 @@ I'm a data scientist working on deep learning applications to life language proc
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%208%20mins-blue)
 
 **I'm an Early 🐤** 
 
