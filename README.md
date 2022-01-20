@@ -56,6 +56,8 @@ I'm a data scientist working on deep learning applications to life language proc
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2058%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -95,7 +97,7 @@ PyCharm                  6 hrs 4 mins        ███████████�
 🐱‍💻 Projects: 
 Cafe                     7 hrs 6 mins        █████████████░░░░░░░░░░░░   53.95% 
 discovery-p-estimator    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   22.34% 
-gerdoo                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+gerdoo                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
 Github_Copilot           1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
 Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
@@ -105,7 +107,7 @@ Linux                    13 hrs 10 mins      ███████████�
 ```
 
 
- Last Updated on 20/01/2022 21:16:56 UTC
+ Last Updated on 20/01/2022 22:18:54 UTC
 <!--END_SECTION:waka-->
 
 
