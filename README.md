@@ -56,7 +56,7 @@ I'm a data scientist working on deep learning applications to life language proc
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2022%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -99,7 +99,7 @@ Linux                    2 hrs 2 mins        ███████████�
 ```
 
 
- Last Updated on 05/04/2022 10:21:39 UTC
+ Last Updated on 05/04/2022 11:18:28 UTC
 <!--END_SECTION:waka-->
 
 
