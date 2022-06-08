@@ -56,7 +56,7 @@ I'm a data scientist working on deep learning applications to life language proc
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2028%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -85,21 +85,23 @@ Sunday       27 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              ████████████████████████░   96.35% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test-vscode              4 mins              ████████████████░░░░░░░░░   64.2% 
+Unknown Project          2 mins              █████████░░░░░░░░░░░░░░░░   35.8%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/06/2022 20:22:03 UTC
+ Last Updated on 08/06/2022 21:18:33 UTC
 <!--END_SECTION:waka-->
 
 
