@@ -56,7 +56,7 @@ I'm a data scientist working on deep learning applications to life language proc
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2054%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -85,21 +85,27 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 40 mins       ████████████████████████░   97.07% 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 hrs 49 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FSL                      2 hrs 49 mins       ██████████████░░░░░░░░░░░   58.77% 
+Video_processing         1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   22.6% 
+Image_processing         47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27% 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/11/2022 21:06:20 UTC
+ Last Updated on 26/11/2022 22:06:48 UTC
 <!--END_SECTION:waka-->
 
 
