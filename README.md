@@ -12,7 +12,7 @@ I'm a data scientist working on deep learning applications to life language proc
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 -->
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%2380A0C0"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%2380A0C0">
 
 ## :mailbox_closed: Contact Me 
 <p align="left"> <a href="https://twitter.com/Azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="mailto:ermiaazarkhalili@gmail.com?"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" /> </a> </p>
