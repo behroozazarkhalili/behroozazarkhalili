@@ -1,6 +1,6 @@
 ### Hi there, I'm [Behrooz Azarkhalili](https://twitter.com/Azarkhalili) 👋
 
-<img src='![Banner](https://user-images.githubusercontent.com/80390531/222154042-4718d30b-3767-4882-be6e-df8943df0b40.jpeg)' alt="banner"></img>
+<img src='Images/Banner.png' alt="banner"></img>
 
 I'm a data scientist working on deep learning applications to life language processing, computational drug discovery, computational proteomics, and chemoinformatics as a visiting researcher in the [Mofrad Group](https://llp.berkeley.edu/people/) at the University of California, Berkeley. I'm currently democratizing Deep Learning for Life Sciences with [DeepChem](https://github.com/deepchem/deepchem), [Tensoflow](https://github.com/tensorflow), [Pytorch](https://github.com/pytorch), [Transformers](https://github.com/huggingface/nlp), [Spektral](https://github.com/danielegrattarola/spektral/), [DGL](https://github.com/dmlc/dgl).
 <!--- 
