@@ -86,21 +86,20 @@ Sunday                   48 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        █████████████████████████   99.98 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Offerland-Interview      3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/04/2023 21:05:45 UTC
+ Last Updated on 15/04/2023 22:05:52 UTC
 <!--END_SECTION:waka-->
 
 
