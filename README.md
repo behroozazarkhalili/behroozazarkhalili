@@ -59,7 +59,7 @@ I'm a data scientist working on deep learning applications to life language proc
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2015%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -95,9 +95,9 @@ CSV                      0 secs              ░░░░░░░░░░░�
 VS Code                  13 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Projects                 12 hrs 51 mins      ███████████████████████░░   93.64 % 
+Projects                 12 hrs 52 mins      ███████████████████████░░   93.75 % 
 Pytorch-Tutorials        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Deep-Shap                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Deep-Shap                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
@@ -105,7 +105,7 @@ Linux                    13 hrs 43 mins      ███████████�
 ```
 
 
- Last Updated on 18/07/2023 21:05:53 UTC
+ Last Updated on 18/07/2023 22:06:22 UTC
 <!--END_SECTION:waka-->
 
 
