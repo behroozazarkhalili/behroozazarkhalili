@@ -15,7 +15,9 @@ I'm a data scientist working on deep learning applications to life language proc
 - 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
 -->
 
+<!--- 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c&style=plastic)
+-->
 
 ## :mailbox_closed: Contact Me 
 <p align="left"> <a href="https://twitter.com/b_azarkhalili" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter logo" title="Twitter" height="25" /> </a> <a href="mailto:ermiaazarkhalili@gmail.com?"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" /> </a> </p>
