@@ -43,7 +43,7 @@ I'm a data scientist working on deep learning applications to life language proc
 <p align="left">  </a> <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu" alt="Ubuntu logo" title="Ubuntu" height="25" /> </a> <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux Mint-282C34?logo=linux-mint" alt="Mint logo" title="Mint" height="25" /> </a> <a href="https://www.debian.org/" target="_blank"> <img src="https://img.shields.io/badge/Debian-282C34?logo=debian&logoColor=D0074E" alt="Debian logo" title="Debian" height="25" /> </a> </p>
 
 ##
-[![built with Codeium](https://codeium.com/badges/main).]. (https://codeium.com)
+[![built with Codeium](https://codeium.com/badges/main).]. (https://codeium.com?repo_name=behroozazarkhalili%2behroozazarkhalili)
 <!---
 ![Metrics](https://metrics.lecoq.io/behroozazarkhalili?template=classic&base.community=0&introduction=1&lines=1&introduction.title=true&config.timezone=USA%2FBerkeley)
 
