@@ -87,20 +87,20 @@ Sunday                   151 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-XAI                      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/12/2023 08:12:29 UTC
+ Last Updated on 11/12/2023 09:11:27 UTC
 <!--END_SECTION:waka-->
 
 
