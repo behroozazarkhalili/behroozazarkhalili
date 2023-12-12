@@ -60,7 +60,7 @@ I'm a data scientist working on deep learning applications to life language proc
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%2028%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -87,20 +87,24 @@ Sunday                   151 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 hrs 41 mins       ███████████████████████░░   91.07 % 
+Git Config               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nl-to-code               8 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/12/2023 08:11:54 UTC
+ Last Updated on 12/12/2023 09:10:36 UTC
 <!--END_SECTION:waka-->
 
 
