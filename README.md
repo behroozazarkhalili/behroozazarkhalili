@@ -122,14 +122,6 @@ Linux                    12 hrs 48 mins      ███████████�
 <!--END_SECTION:waka-->
 
 
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behroozazarkhalili)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!---
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=flag-india)](http://github.com/tensorflow/tensorflow)
-# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
--->
 
 ## 📌 Pinned Repositories
 
