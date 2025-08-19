@@ -1,19 +1,30 @@
 ### Hi there, I'm [Behrooz Azarkhalili](https://twitter.com/Azarkhalili) 👋
 
-<!--
-<img src='Images/Banner.jpeg' alt="banner" height="200" width="500"></img>
--->
+🔬 **AI Scientist & Engineer** • **ML/DL & LLM Fine-Tuning Polyglot** • **Multimodal Maverick**
 
-I'm a data scientist working on deep learning applications to life language processing, computational drug discovery, computational proteomics, and chemoinformatics as a visiting researcher in the [Mofrad Group](https://llp.berkeley.edu/people/) at the University of California, Berkeley. I'm currently democratizing Deep Learning for Life Sciences with [DeepChem](https://github.com/deepchem/deepchem), [Tensoflow](https://github.com/tensorflow), [Pytorch](https://github.com/pytorch), [Transformers](https://github.com/huggingface/nlp), [Spektral](https://github.com/danielegrattarola/spektral/), [DGL](https://github.com/dmlc/dgl).
-<!--- 
-- :man_technologist: I’m currently working on democratizing Deep Learning for the Life Sciences with [DeepChem](https://github.com/deepchem/deepchem), [Tensoflow](https://github.com/tensorflow), [Pytorch](https://github.com/pytorch), [Hugginface](https://github.com/huggingface/nlp), [Spektral](https://github.com/danielegrattarola/spektral/), [DGL](https://github.com/dmlc/dgl). I am working on developing sequence and graph-based models for understanding computational proteomics and structural biology.
-- 🧠 I'm a `Python`, `R`,  `Scala`, `Linux`, and `Latex` Expert.
-- 🌱 I’m currently learning [Huggingface](https://github.com/huggingface/nlp), [Deep Graph Library](https://github.com/dmlc/dgl). 
-- :unlock: I'm exploiting `Python`, `Tensorflow`, `Pytorch`, `Scikit-Learn`, `Pandas`, `Transformers`, `Spektral`, and `DGL`.
-- :people_holding_hands: I’m looking to collaborate on deep learning for life language processing and computational biology.
-- 💬 Ask me about DL, NLP, and Life Language Processing.
-- 📫 How to reach me: [Twitter](https://twitter.com/Azarkhalili) | [Email](ermiaazarkhalili@gmail.com)
--->
+With nine years of deep immersion, I architect, train, and optimize state-of-the-art ML, DL, and LLM systems — spanning NLP, computer vision, speech, and multimodal architectures that truly understand the world.
+
+⚙️ **Core Expertise**
+
+**◼ LLM Fine-Tuning:**
+- Implement parameter-efficient fine-tuning (PEFT) techniques—LoRA, QLoRA, Prefix-Tuning, Adapter-Tuning—using the Hugging Face PEFT library to inject lightweight adapters into frozen transformers, cutting memory & parameters by orders of magnitude while maintaining full-scale performance.
+- Leverage bitsandbytes + 8-bit/4-bit quantization for efficient training and QLoRA benefits on consumer hardware.
+- Use TRL and Unsloth for instruction-tuning and RLHF workflows, including DPO, GRPO, PPO, and others.
+
+**◼ Multimodal / Classic ML & DL:**
+- Build custom transformers, CNNs, and RNNs across text, vision, and audio.
+- Contribute to research & deployment projects at UC Berkeley, Georgia Tech, LAVIVO, and AI VIVO.
+
+**◼ Full ML Lifecycle:**
+- End-to-end pipelines: data ingestion → experimentation (MLflow, W&B) → scalable inference (AWS SageMaker, Gradio, Streamlit).
+
+🛠 **Tech Stack**
+
+**ML/DL Frameworks:** TensorFlow · PyTorch · JAX · Keras  
+**LLM & NLP:** Transformers · SpaCy · LangChain · Llama-Index · PEFT (LoRA/QLoRA/Prefix-Tuning) · Unsloth · bitsandbytes · TRL  
+**MLOps & Experimentation:** MLflow · Weights & Biases · AWS SageMaker  
+**Deployment & UI:** Gradio · Streamlit  
+**Version Control:** Git
 
 <!--- 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c&style=plastic)
