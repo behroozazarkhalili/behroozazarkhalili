@@ -135,14 +135,12 @@ Linux                    12 hrs 48 mins      ███████████�
 
 <a href="https://github.com/pytorch/pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&show_owner=true" width="400" height="150" /> 
-</a>
-<a href="https://github.com/huggingface/transformers">
+</a><a href="https://github.com/huggingface/transformers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&show_owner=true" width="400" height="150" /> 
 </a>
 
 <a href="https://github.com/huggingface/trl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=trl&show_owner=true" width="400" height="150" /> 
-</a>
-<a href="https://github.com/huggingface/peft">
+</a><a href="https://github.com/huggingface/peft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=peft&show_owner=true" width="400" height="150" /> 
 </a>
