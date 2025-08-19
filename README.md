@@ -133,16 +133,16 @@ Linux                    12 hrs 48 mins      ███████████�
 
 ## 📌 Pinned Repositories
 
-<a href="http://github.com/tensorflow/tensorflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=nord" width="400" height="150" /> 
+<a href="https://github.com/pytorch/pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
-<a href="https://github.com/danielegrattarola/spektral/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielegrattarola&repo=spektral&show_owner=true&theme=nord" width="400" height="150" /> 
+<a href="https://github.com/huggingface/transformers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
 
-<a href="http://github.com/tensorflow/addons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Addons&show_owner=true&theme=nord" width="400" height="150" /> 
+<a href="https://github.com/huggingface/trl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=trl&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
-<a href="http://github.com/deepchem/deepchem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=nord" width="400" height="150" /> 
+<a href="https://github.com/huggingface/peft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=peft&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
