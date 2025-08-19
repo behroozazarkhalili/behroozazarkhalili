@@ -133,29 +133,20 @@ Linux                    12 hrs 48 mins      ███████████�
 
 ## 📌 Pinned Repositories
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/pytorch/pytorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&show_owner=true&description_lines_count=2" width="400" height="150" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/huggingface/transformers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&show_owner=true&description_lines_count=2" width="400" height="150" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/huggingface/trl">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=trl&show_owner=true&description_lines_count=2" width="400" height="150" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/huggingface/peft">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=peft&show_owner=true&description_lines_count=2" width="400" height="150" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/pytorch/pytorch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&show_owner=true&description_lines_count=2" width="400" height="150" />
+  </a>
+  <a href="https://github.com/huggingface/transformers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&show_owner=true&description_lines_count=2" width="400" height="150" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/huggingface/trl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=trl&show_owner=true&description_lines_count=2" width="400" height="150" />
+  </a>
+  <a href="https://github.com/huggingface/peft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=peft&show_owner=true&description_lines_count=2" width="400" height="150" />
+  </a>
+</p>
