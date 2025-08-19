@@ -19,12 +19,11 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 - End-to-end pipelines: data ingestion → experimentation (MLflow, W&B) → scalable inference (AWS SageMaker, Gradio, Streamlit).
 
 🛠 **Tech Stack**
-
-**ML/DL Frameworks:** TensorFlow · PyTorch · JAX · Keras  
-**LLM & NLP:** Transformers · SpaCy · LangChain · Llama-Index · PEFT (LoRA/QLoRA/Prefix-Tuning) · Unsloth · bitsandbytes · TRL  
-**MLOps & Experimentation:** MLflow · Weights & Biases · AWS SageMaker  
-**Deployment & UI:** Gradio · Streamlit  
-**Version Control:** Git
+- **ML/DL Frameworks:** TensorFlow · PyTorch · JAX · Keras  
+- **LLM & NLP:** Transformers · SpaCy · LangChain · Llama-Index · PEFT (LoRA/QLoRA/Prefix-Tuning) · Unsloth · bitsandbytes · TRL  
+- **MLOps & Experimentation:** MLflow · Weights & Biases · AWS SageMaker  
+- **Deployment & UI:** Gradio · Streamlit  
+- **Version Control:** Git
 
 <!--- 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c&style=plastic)
@@ -132,9 +131,8 @@ Linux                    12 hrs 48 mins      ███████████�
 # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=flag-india)](http://github.com/tensorflow/addons)
 -->
 
-## 
+## 📌 Pinned Repositories
 
-<!---
 <a href="http://github.com/tensorflow/tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=Tensorflow&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
@@ -148,5 +146,3 @@ Linux                    12 hrs 48 mins      ███████████�
 <a href="http://github.com/deepchem/deepchem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepchem&repo=deepchem&show_owner=true&theme=nord" width="400" height="150" /> 
 </a>
-
--->
