@@ -108,9 +108,9 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <td>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-282C34.svg?logo=vsc&logoColor=007ACC" alt="VS Code" height="20" />
   <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm" alt="PyCharm" height="20" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea" alt="IntelliJ IDEA" height="20" />
-  <img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=ffffff" alt="Jupyter" height="20" />
-  <img src="https://img.shields.io/badge/Google_Colab-282C34?logo=google-colab&logoColor=ffffff" alt="Google Colab" height="20" />
+  <!-- <img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea" alt="IntelliJ IDEA" height="20" /> -->
+  <!-- <img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=ffffff" alt="Jupyter" height="20" /> -->
+  <img src="https://img.shields.io/badge/Colab-282C34?logo=google-colab&logoColor=ffffff" alt="Colab" height="20" />
   <img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=ffffff" alt="RStudio" height="20" />
 </td>
 </tr>
