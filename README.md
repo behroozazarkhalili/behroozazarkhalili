@@ -4,26 +4,44 @@
 
 With nine years of deep immersion, I architect, train, and optimize state-of-the-art ML, DL, and LLM systems — spanning NLP, computer vision, speech, and multimodal architectures that truly understand the world.
 
-⚙️ **Core Expertise**
+## ⚙️ Core Expertise
 
-**◼ LLM Fine-Tuning:**
-- Implement parameter-efficient fine-tuning (PEFT) techniques—LoRA, QLoRA, Prefix-Tuning, Adapter-Tuning—using the Hugging Face PEFT library to inject lightweight adapters into frozen transformers, cutting memory & parameters by orders of magnitude while maintaining full-scale performance.
-- Leverage bitsandbytes + 8-bit/4-bit quantization for efficient training and QLoRA benefits on consumer hardware.
-- Use TRL and Unsloth for instruction-tuning and RLHF workflows, including DPO, GRPO, PPO, and others.
+### 🧠 LLM Fine-Tuning
+- **Parameter-Efficient Techniques:** Implement LoRA, QLoRA, Prefix-Tuning, and Adapter-Tuning using Hugging Face PEFT library to inject lightweight adapters into frozen transformers, cutting memory & parameters by orders of magnitude while maintaining full-scale performance
+- **Quantization & Optimization:** Leverage bitsandbytes + 8-bit/4-bit quantization for efficient training and QLoRA benefits on consumer hardware
+- **Advanced Training:** Use TRL and Unsloth for instruction-tuning and RLHF workflows, including DPO, GRPO, PPO, and others
 
-**◼ Multimodal / Classic ML & DL:**
-- Build custom transformers, CNNs, and RNNs across text, vision, and audio.
-- Contribute to research & deployment projects at UC Berkeley, Georgia Tech, LAVIVO, and AI VIVO.
+### 🔬 Multimodal / Classic ML & DL
+- **Neural Architectures:** Build custom transformers, CNNs, and RNNs across text, vision, and audio modalities
+- **Research & Development:** Contribute to research & deployment projects at UC Berkeley, Georgia Tech, LAVIVO, and AI VIVO
 
-**◼ Full ML Lifecycle:**
-- End-to-end pipelines: data ingestion → experimentation (MLflow, W&B) → scalable inference (AWS SageMaker, Gradio, Streamlit).
+### 🔄 Full ML Lifecycle
+- **End-to-End Pipelines:** Data ingestion → experimentation (MLflow, W&B) → scalable inference (AWS SageMaker, Gradio, Streamlit)
 
-🛠 **Tech Stack**
-- **ML/DL Frameworks:** TensorFlow · PyTorch · JAX · Keras  
-- **LLM & NLP:** Transformers · SpaCy · LangChain · Llama-Index · PEFT (LoRA/QLoRA/Prefix-Tuning) · Unsloth · bitsandbytes · TRL  
-- **MLOps & Experimentation:** MLflow · Weights & Biases · AWS SageMaker  
-- **Deployment & UI:** Gradio · Streamlit  
-- **Version Control:** Git
+## 🛠️ Technical Stack
+
+<table>
+<tr>
+<td><strong>🤖 ML/DL Frameworks</strong></td>
+<td>TensorFlow • PyTorch • JAX • Keras</td>
+</tr>
+<tr>
+<td><strong>🧠 LLM & NLP</strong></td>
+<td>Transformers • SpaCy • LangChain • Llama-Index • PEFT • Unsloth • bitsandbytes • TRL</td>
+</tr>
+<tr>
+<td><strong>⚡ MLOps & Experimentation</strong></td>
+<td>MLflow • Weights & Biases • AWS SageMaker</td>
+</tr>
+<tr>
+<td><strong>🚀 Deployment & UI</strong></td>
+<td>Gradio • Streamlit</td>
+</tr>
+<tr>
+<td><strong>📝 Version Control</strong></td>
+<td>Git</td>
+</tr>
+</table>
 
 <!--- 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c&style=plastic)
