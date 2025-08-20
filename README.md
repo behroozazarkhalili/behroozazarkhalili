@@ -42,21 +42,36 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 </td>
 </tr>
 <tr>
-<td><strong>🧠 LLM & NLP</strong></td>
+<td><strong>🔤 NLP</strong></td>
 <td>
   <img src="https://img.shields.io/badge/🤗_Transformers-282C34?logoColor=white" alt="Transformers" height="20" />
   <img src="https://img.shields.io/badge/spaCy-282C34?logo=spacy&logoColor=09A3D5" alt="spaCy" height="20" />
+</td>
+</tr>
+<tr>
+<td><strong>🧠 LLMs API</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Claude-282C34?logo=claude" alt="Claude" height="20" />
+  <img src="https://img.shields.io/badge/OpenAI-282C34?logo=openai" alt="OpenAI" height="20" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-282C34?logo=deepseek" alt="Deepseek" height="20" />
+  <img src="https://img.shields.io/badge/Gemini-282C34?logo=googlegemini&logoColor=008ECC" alt="Gemini" height="20" />
   <img src="https://img.shields.io/badge/🦜🔗_LangChain-282C34?logoColor=white" alt="LangChain" height="20" />
+  <img src="https://img.shields.io/badge/Ollama-282C34?logo=ollama" alt="Ollama" height="20" />
+</td>
+</tr>
+<tr>
+<td><strong>⚙️ LLMs Fine-tuning</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/🤗_TRL-282C34?logoColor=white" alt="TRL" height="20" />
   <img src="https://img.shields.io/badge/🤗_PEFT-282C34?logoColor=white" alt="PEFT" height="20" />
   <img src="https://img.shields.io/badge/🦥_Unsloth-282C34?logoColor=white" alt="Unsloth" height="20" />
 </td>
 </tr>
 <tr>
-<td><strong>⚡ MLOps & Big Data</strong></td>
+<td><strong>⚡ MLOps</strong></td>
 <td>
   <img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow&logoColor=0194E2" alt="MLflow" height="20" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-282C34?logo=weightsandbiases&logoColor=FFBE00" alt="W&B" height="20" />
-  <img src="https://img.shields.io/badge/AWS_SageMaker-282C34?logo=amazonaws&logoColor=FF9900" alt="SageMaker" height="20" />
   <img src="https://img.shields.io/badge/Apache_Spark-282C34?logo=apache-spark" alt="Apache Spark" height="20" />
   <img src="https://img.shields.io/badge/Apache_Airflow-282C34?logo=apache-airflow&logoColor=AFCB1E" alt="Apache Airflow" height="20" />
 </td>
@@ -64,6 +79,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <tr>
 <td><strong>🚀 Deployment & Cloud</strong></td>
 <td>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-282C34.svg?logo=aws&logoColor=FF9900" alt="AWS" height="20" />
   <img src="https://img.shields.io/badge/Gradio-282C34?logo=gradio&logoColor=FF7C00" alt="Gradio" height="20" />
   <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit" height="20" />
   <img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=A3AAEB" alt="Heroku" height="20" />
@@ -85,21 +101,21 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
   <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git" height="20" />
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github" alt="GitHub" height="20" />
   <img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab" alt="GitLab" height="20" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=007ACC" alt="VS Code" height="20" />
-  <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm" alt="PyCharm" height="20" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea" alt="IntelliJ IDEA" height="20" />
 </td>
 </tr>
 <tr>
-<td><strong>📊 Notebooks & Analysis</strong></td>
+<td><strong>💻 IDEs</strong></td>
 <td>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-282C34.svg?logo=vsc&logoColor=007ACC" alt="VS Code" height="20" />
+  <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm" alt="PyCharm" height="20" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea" alt="IntelliJ IDEA" height="20" />
   <img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=ffffff" alt="Jupyter" height="20" />
   <img src="https://img.shields.io/badge/Google_Colab-282C34?logo=google-colab&logoColor=ffffff" alt="Google Colab" height="20" />
   <img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=ffffff" alt="RStudio" height="20" />
 </td>
 </tr>
 <tr>
-<td><strong>📝 Documentation & Productivity</strong></td>
+<td><strong>📈 Productivity</strong></td>
 <td>
   <img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=AFCB1E" alt="LaTeX" height="20" />
   <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=93C6F4" alt="Markdown" height="20" />
@@ -133,8 +149,6 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 <!---
 ![Metrics](https://metrics.lecoq.io/behroozazarkhalili?template=classic&base.community=0&introduction=1&lines=1&introduction.title=true&config.timezone=USA%2FBerkeley)
-
-##
 -->
 
 <!---
@@ -148,26 +162,26 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C260%20hrs%2014%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                467 commits         ████████░░░░░░░░░░░░░░░░░   32.43 % 
-🌆 Daytime                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-🌃 Evening                369 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-🌙 Night                  426 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+🌆 Daytime    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+🌃 Evening    69 commits     ██████████░░░░░░░░░░░░░░░   43.12% 
+🌙 Night      34 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25%
+
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Tuesday                  230 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Wednesday                223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Thursday                 44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Friday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Saturday                 319 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Sunday                   261 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+Tuesday      67 commits     ██████████░░░░░░░░░░░░░░░   41.88% 
+Wednesday    38 commits     ██████░░░░░░░░░░░░░░░░░░░   23.75% 
+Thursday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+Sunday       34 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25%
+
 ```
 
 
@@ -175,50 +189,27 @@ Sunday                   261 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 28 mins       █████████████░░░░░░░░░░░░   50.62 % 
-Markdown                 3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Python                   8 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.81% 
+Markdown                 5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   30.38% 
+YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
+Text                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
 
 🔥 Editors: 
-VS Code                  12 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 10 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-genai_bigteacher         3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-bigteacher_tubelink_video2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-GATA                     2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-genai_bigteacher_image_tr1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-trl                      1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+genai_bigteacher         3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.45% 
+bigteacher_tubelink_video2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
+GATA                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
+behroozazarkhalili       1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+genai_bigteacher_image_tr1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.93%
 
 💻 Operating System: 
-Linux                    12 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 10 mins      █████████████████████████   100.0%
+
 ```
 
 
- Last Updated on 19/08/2025 21:08:39 UTC
+ Last Updated on 20/08/2025
 <!--END_SECTION:waka-->
-
-
-
-<!--
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/pytorch/pytorch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pytorch&repo=pytorch&show_owner=true&description_lines_count=2" width="400" height="150" />
-  </a>
-  <a href="https://github.com/huggingface/transformers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&show_owner=true&description_lines_count=2" width="400" height="150" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/huggingface/trl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=trl&show_owner=true&description_lines_count=2" width="400" height="150" />
-  </a>
-  <a href="https://github.com/huggingface/peft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=peft&show_owner=true&description_lines_count=2" width="400" height="150" />
-  </a>
-</p>
--->
