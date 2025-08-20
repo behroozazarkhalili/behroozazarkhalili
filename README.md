@@ -36,7 +36,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <td>
   <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="TensorFlow" height="20" />
   <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch" alt="PyTorch" height="20" />
-  <img src="https://img.shields.io/badge/JAX-282C34?logo=google&logoColor=4285F4" alt="JAX" height="20" />
+  <img src="https://img.shields.io/badge/JAX-282C34?logo=google&logoColor=FF6900" alt="JAX" height="20" />
   <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras" height="20" />
   <img src="https://img.shields.io/badge/Scikit_Learn-282C34?logo=scikit-learn" alt="Scikit Learn" height="20" />
 </td>
@@ -44,11 +44,11 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <tr>
 <td><strong>🧠 LLM & NLP</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/🤗_Transformers-282C34?logo=huggingface&logoColor=FFD21E" alt="Transformers" height="20" />
+  <img src="https://img.shields.io/badge/🤗_Transformers-282C34?logoColor=white" alt="Transformers" height="20" />
   <img src="https://img.shields.io/badge/spaCy-282C34?logo=spacy&logoColor=09A3D5" alt="spaCy" height="20" />
   <img src="https://img.shields.io/badge/🦜🔗_LangChain-282C34?logo=chainlink&logoColor=375BD2" alt="LangChain" height="20" />
-  <img src="https://img.shields.io/badge/🤗_PEFT-282C34?logo=huggingface&logoColor=FFD21E" alt="PEFT" height="20" />
-  <img src="https://img.shields.io/badge/⚡_Unsloth-282C34?logo=lightning&logoColor=FFDD44" alt="Unsloth" height="20" />
+  <img src="https://img.shields.io/badge/🤗_PEFT-282C34?logoColor=white" alt="PEFT" height="20" />
+  <img src="https://img.shields.io/badge/🦥_Unsloth-282C34?logoColor=white" alt="Unsloth" height="20" />
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <tr>
 <td><strong>🚀 Deployment & Cloud</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/🎛️_Gradio-282C34?logo=python&logoColor=3776AB" alt="Gradio" height="20" />
+  <img src="https://img.shields.io/badge/Gradio-282C34?logo=gradio&logoColor=FF7C00" alt="Gradio" height="20" />
   <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit" height="20" />
   <img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=A3AAEB" alt="Heroku" height="20" />
 </td>
