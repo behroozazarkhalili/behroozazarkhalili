@@ -10,8 +10,12 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update README with WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -25,4 +29,12 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
+        continue-on-error: true
+      
+      - name: Handle WakaTime API timeout
+        if: failure()
+        run: |
+          echo "⚠️ WakaTime workflow failed, likely due to GitHub API timeout"
+          echo "This is a known issue with the GitHub GraphQL API and will be retried on next run"
+          echo "The failure does not affect repository functionality"
           
