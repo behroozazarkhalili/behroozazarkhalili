@@ -85,7 +85,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
   <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git" height="20" />
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github" alt="GitHub" height="20" />
   <img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab" alt="GitLab" height="20" />
-  <img src="https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code" height="20" />
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
   <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm" alt="PyCharm" height="20" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea" alt="IntelliJ IDEA" height="20" />
 </td>
