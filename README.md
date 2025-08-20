@@ -36,7 +36,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <td>
   <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="TensorFlow" height="20" />
   <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch" alt="PyTorch" height="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/512px-Google_JAX_logo.svg.png" alt="JAX" height="20" />
+  <img src="https://img.shields.io/badge/JAX-282C34?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIwIDMuNzVDMTAuMzM1IDMuNzUgMi41IDExLjU4NSAyLjUgMjEuMjVDMi41IDMwLjkxNSAxMC4zMzUgMzguNzUgMjAgMzguNzVDMjkuNjY1IDM4Ljc1IDM3LjUgMzAuOTE1IDM3LjUgMjEuMjVDMzcuNSAxMS41ODUgMjkuNjY1IDMuNzUgMjAgMy43NVoiIGZpbGw9IiNGRjY5MDAiLz4KPHBhdGggZD0iTTE2LjI1IDEyLjVIMjMuNzVWMTcuNUgxNi4yNVYxMi41WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTE2LjI1IDIyLjVIMjMuNzVWMjcuNUgxNi4yNVYyMi41WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+" alt="JAX" height="20" />
   <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras" height="20" />
   <img src="https://img.shields.io/badge/Scikit_Learn-282C34?logo=scikit-learn" alt="Scikit Learn" height="20" />
 </td>
