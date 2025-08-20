@@ -36,7 +36,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <td>
   <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="TensorFlow" height="20" />
   <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch" alt="PyTorch" height="20" />
-  <!-- <img src="https://img.shields.io/badge/JAX-282C34?style=flat" alt="JAX" height="20" /> -->
+  <img src="https://img.shields.io/badge/JAX-282C34?style=flat" alt="JAX" height="20" />
   <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras" height="20" />
   <img src="https://img.shields.io/badge/Scikit_Learn-282C34?logo=scikit-learn" alt="Scikit Learn" height="20" />
 </td>
@@ -75,8 +75,8 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB" height="20" />
   <img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=64AEDC" alt="SQLite" height="20" />
   <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=64AEDC" alt="PostgreSQL" height="20" />
-  <img src="https://img.shields.io/badge/Weaviate-282C34?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyMSIgdmlld0JveD0iMCAwIDEyOCAxMjEiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik02NCA2MEw5NS4yIDQyLjNWMjEuNkw2NCAwTDMyLjggMjEuNlY0Mi4zTDY0IDYwWiIgZmlsbD0iIzJGQkY5OCIvPgo8cGF0aCBkPSJNNjQgNjBMOTUuMiA3Ny43VjU2LjlMNjQgMzkuMkwzMi44IDU2LjlWNzcuN0w2NCA2MFoiIGZpbGw9IiM1MkQzRDMiLz4KPHA+CjwvcGF0aD4KPC9zdmc+" alt="Weaviate" height="20" />
-  <img src="https://img.shields.io/badge/Qdrant-282C34?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl8wXzEpIi8+CjxwYXRoIGQ9Ik0xMC42NjY3IDEwLjY2NjdIMjEuMzMzM1YyMS4zMzMzSDEwLjY2NjdWMTAuNjY2N1oiIGZpbGw9IndoaXRlIi8+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMF8xIiB4MT0iMCIgeTE9IjAiIHgyPSIzMiIgeTI9IjMyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiNGRjAwNzAiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRkY2NjAwIi8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+" alt="Qdrant" height="20" />
+  <img src="https://img.shields.io/badge/Weaviate-282C34?style=flat" alt="Weaviate" height="20" />
+  <img src="https://img.shields.io/badge/Qdrant-282C34?style=flat" alt="Qdrant" height="20" />
 </td>
 </tr>
 <tr>
