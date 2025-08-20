@@ -22,43 +22,95 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 <table>
 <tr>
+<td><strong>💻 Programming Languages</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=2BA1B9" alt="Python" height="20" />
+  <img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=6F9BBC" alt="R" height="20" />
+  <img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=DC322F" alt="Scala" height="20" />
+  <img src="https://img.shields.io/badge/MATLAB-282C34?logo=mathworks&logoColor=F78F10" alt="MATLAB" height="20" />
+  <img src="https://img.shields.io/badge/Octave-282C34?logo=octave" alt="Octave" height="20" />
+</td>
+</tr>
+<tr>
 <td><strong>🤖 ML/DL Frameworks</strong></td>
 <td>
   <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="TensorFlow" height="20" />
   <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch" alt="PyTorch" height="20" />
-  <img src="https://img.shields.io/badge/JAX-282C34?logo=jax&logoColor=white" alt="JAX" height="20" />
+  <img src="https://img.shields.io/badge/JAX-282C34?logo=google&logoColor=4285F4" alt="JAX" height="20" />
   <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras" height="20" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-282C34?logo=scikit-learn" alt="Scikit Learn" height="20" />
 </td>
 </tr>
 <tr>
 <td><strong>🧠 LLM & NLP</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/🤗_Transformers-282C34?logoColor=white" alt="Transformers" height="20" />
+  <img src="https://img.shields.io/badge/🤗_Transformers-282C34?logo=huggingface&logoColor=FFD21E" alt="Transformers" height="20" />
   <img src="https://img.shields.io/badge/spaCy-282C34?logo=spacy&logoColor=09A3D5" alt="spaCy" height="20" />
-  <img src="https://img.shields.io/badge/🦜🔗_LangChain-282C34?logoColor=white" alt="LangChain" height="20" />
-  <img src="https://img.shields.io/badge/PEFT-282C34?logoColor=white" alt="PEFT" height="20" />
-  <img src="https://img.shields.io/badge/Unsloth-282C34?logoColor=white" alt="Unsloth" height="20" />
+  <img src="https://img.shields.io/badge/🦜🔗_LangChain-282C34?logo=chainlink&logoColor=375BD2" alt="LangChain" height="20" />
+  <img src="https://img.shields.io/badge/🤗_PEFT-282C34?logo=huggingface&logoColor=FFD21E" alt="PEFT" height="20" />
+  <img src="https://img.shields.io/badge/⚡_Unsloth-282C34?logo=lightning&logoColor=FFDD44" alt="Unsloth" height="20" />
 </td>
 </tr>
 <tr>
-<td><strong>⚡ MLOps & Experimentation</strong></td>
+<td><strong>⚡ MLOps & Big Data</strong></td>
 <td>
   <img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow&logoColor=0194E2" alt="MLflow" height="20" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-282C34?logo=weightsandbiases&logoColor=FFBE00" alt="W&B" height="20" />
   <img src="https://img.shields.io/badge/AWS_SageMaker-282C34?logo=amazon-aws&logoColor=FF9900" alt="SageMaker" height="20" />
+  <img src="https://img.shields.io/badge/Apache_Spark-282C34?logo=apache-spark" alt="Apache Spark" height="20" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-282C34?logo=apache-airflow&logoColor=AFCB1E" alt="Apache Airflow" height="20" />
 </td>
 </tr>
 <tr>
-<td><strong>🚀 Deployment & UI</strong></td>
+<td><strong>🚀 Deployment & Cloud</strong></td>
 <td>
-  <img src="https://img.shields.io/badge/Gradio-282C34?logo=gradio&logoColor=white" alt="Gradio" height="20" />
+  <img src="https://img.shields.io/badge/🎛️_Gradio-282C34?logo=python&logoColor=3776AB" alt="Gradio" height="20" />
   <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit" height="20" />
+  <img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=A3AAEB" alt="Heroku" height="20" />
 </td>
 </tr>
 <tr>
-<td><strong>📝 Version Control</strong></td>
+<td><strong>🗄️ Databases</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB" height="20" />
+  <img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=64AEDC" alt="SQLite" height="20" />
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=64AEDC" alt="PostgreSQL" height="20" />
+</td>
+</tr>
+<tr>
+<td><strong>🛠️ Development Tools</strong></td>
 <td>
   <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git" height="20" />
+  <img src="https://img.shields.io/badge/GitHub-282C34?logo=github" alt="GitHub" height="20" />
+  <img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab" alt="GitLab" height="20" />
+  <img src="https://img.shields.io/badge/VS_Code-282C34?logo=visual-studio-code&logoColor=ffffff" alt="VS Code" height="20" />
+  <img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm" alt="PyCharm" height="20" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea" alt="IntelliJ IDEA" height="20" />
+</td>
+</tr>
+<tr>
+<td><strong>📊 Notebooks & Analysis</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=ffffff" alt="Jupyter" height="20" />
+  <img src="https://img.shields.io/badge/Google_Colab-282C34?logo=google-colab&logoColor=ffffff" alt="Google Colab" height="20" />
+  <img src="https://img.shields.io/badge/RStudio-282C34?logo=rstudio&logoColor=ffffff" alt="RStudio" height="20" />
+</td>
+</tr>
+<tr>
+<td><strong>📝 Documentation & Productivity</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=AFCB1E" alt="LaTeX" height="20" />
+  <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=93C6F4" alt="Markdown" height="20" />
+  <img src="https://img.shields.io/badge/WakaTime-282C34?logo=wakatime&logoColor=F75000" alt="WakaTime" height="20" />
+  <img src="https://img.shields.io/badge/ClickUp-282C34?logo=clickup" alt="ClickUp" height="20" />
+</td>
+</tr>
+<tr>
+<td><strong>💻 Operating Systems</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu" alt="Ubuntu" height="20" />
+  <img src="https://img.shields.io/badge/Linux_Mint-282C34?logo=linux-mint" alt="Linux Mint" height="20" />
+  <img src="https://img.shields.io/badge/Debian-282C34?logo=debian&logoColor=D0074E" alt="Debian" height="20" />
 </td>
 </tr>
 </table>
@@ -76,8 +128,6 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <p align="left"> <a href="https://scholar.google.com/citations?user=Jid12csAAAAJ&hl=en" target="_blank"> <img src="https://img.shields.io/badge/Google Scholar-282C34?logo=google-scholar&logoColor=4D90FE" alt="Google Scholar logo" title="Google Scholar" height="25" /> </a> <a href="https://arxiv.org/search/stat?searchtype=author&query=Azarkhalili%2C+B" target="_blank"> <img src="https://img.shields.io/badge/Arxiv-282C34?logo=arxiv&logoColor=red" alt="Arxiv logo" title="Arxiv" height="25" /> </a> </p>
 
 
-## 	:floppy_disk: Programming Languages
-<p align="left"> <a href="https://python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=2BA1B9" alt="Python logo" title="Python" height="25" /> </a> <a href="https://https://www.r-project.org/" target="_blank"> <img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=6F9BBC" alt="R logo" title="R" height="25" /> </a> <a href="https://scala-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=DC322F" alt="Scalalogo" title="Scala" height="25" /> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/Mathworks-282C34?logo=mathworks&logoColor=F78F10" alt="Matlab logo" title="Matlab" height="25" /> </a> <a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/Latex-282C34?logo=latex&logoColor=AFCB1E" alt="Latex logo" title="Latex" height="25" /> </a> <a href="https://www.gnu.org/software/octave" target="_blank"> <img src="https://img.shields.io/badge/Octave-282C34?logo=octave" alt="Octave logo" title="Octave" height="25" /> </a> <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank"> <img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=93C6F4" alt="Markdown logo" title="Markdown" height="25" /> </a> </p>
 
 ## 🛠  Technologies and Tools
 
