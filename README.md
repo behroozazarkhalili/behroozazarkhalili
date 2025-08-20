@@ -23,23 +23,43 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <table>
 <tr>
 <td><strong>🤖 ML/DL Frameworks</strong></td>
-<td>TensorFlow • PyTorch • JAX • Keras</td>
+<td>
+  <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="TensorFlow" height="20" />
+  <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch" alt="PyTorch" height="20" />
+  <img src="https://img.shields.io/badge/JAX-282C34?logo=jax&logoColor=white" alt="JAX" height="20" />
+  <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras" height="20" />
+</td>
 </tr>
 <tr>
 <td><strong>🧠 LLM & NLP</strong></td>
-<td>Transformers • SpaCy • LangChain • Llama-Index • PEFT • Unsloth • bitsandbytes • TRL</td>
+<td>
+  <img src="https://img.shields.io/badge/🤗_Transformers-282C34?logoColor=white" alt="Transformers" height="20" />
+  <img src="https://img.shields.io/badge/spaCy-282C34?logo=spacy&logoColor=09A3D5" alt="spaCy" height="20" />
+  <img src="https://img.shields.io/badge/🦜🔗_LangChain-282C34?logoColor=white" alt="LangChain" height="20" />
+  <img src="https://img.shields.io/badge/PEFT-282C34?logoColor=white" alt="PEFT" height="20" />
+  <img src="https://img.shields.io/badge/Unsloth-282C34?logoColor=white" alt="Unsloth" height="20" />
+</td>
 </tr>
 <tr>
 <td><strong>⚡ MLOps & Experimentation</strong></td>
-<td>MLflow • Weights & Biases • AWS SageMaker</td>
+<td>
+  <img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow&logoColor=0194E2" alt="MLflow" height="20" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-282C34?logo=weightsandbiases&logoColor=FFBE00" alt="W&B" height="20" />
+  <img src="https://img.shields.io/badge/AWS_SageMaker-282C34?logo=amazon-aws&logoColor=FF9900" alt="SageMaker" height="20" />
+</td>
 </tr>
 <tr>
 <td><strong>🚀 Deployment & UI</strong></td>
-<td>Gradio • Streamlit</td>
+<td>
+  <img src="https://img.shields.io/badge/Gradio-282C34?logo=gradio&logoColor=white" alt="Gradio" height="20" />
+  <img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit" height="20" />
+</td>
 </tr>
 <tr>
 <td><strong>📝 Version Control</strong></td>
-<td>Git</td>
+<td>
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git" height="20" />
+</td>
 </tr>
 </table>
 
