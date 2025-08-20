@@ -36,7 +36,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 <td>
   <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow" alt="TensorFlow" height="20" />
   <img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch" alt="PyTorch" height="20" />
-  <img src="https://img.shields.io/badge/JAX-282C34?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZyBmaWxsPSJ3aGl0ZSI+CiAgICA8cGF0aCBkPSJNNCAxMmg0djRINHYtNHptNiAwaDR2NGgtNHYtNHptNiAwaDR2NGgtNHYtNHoiLz4KICAgIDxwYXRoIGQ9Ik00IDZoNHY0SDR2LTR6bTYgMGg0djRoLTR2LTR6bTYgMGg0djRoLTR2LTR6Ii8+CiAgICA8cGF0aCBkPSJNNCAxOGg0djRINHYtNHptNiAwaDR2NGgtNHYtNHptNiAwaDR2NGgtNHYtNHoiLz4KICA8L2c+Cjwvc3ZnPgo=" alt="JAX" height="20" />
+  <img src="https://img.shields.io/badge/JAX-282C34?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/512px-Google_JAX_logo.svg.png&logoColor=white" alt="JAX" height="20" />
   <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras" height="20" />
   <img src="https://img.shields.io/badge/Scikit_Learn-282C34?logo=scikit-learn" alt="Scikit Learn" height="20" />
 </td>
