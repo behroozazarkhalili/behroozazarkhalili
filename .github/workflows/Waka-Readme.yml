@@ -3,19 +3,20 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs daily at midnight PDT (7 AM UTC)
+    # Runs daily at midnight PDT (7 AM UTC) - off-peak hours to reduce API congestion
     - cron: '0 7 * * *'
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     strategy:
       fail-fast: false
     steps:
-      - name: Update README with WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - name: Update README with WakaTime Stats (Attempt 1)
+        id: wakatime_first_try
+        uses: anmol098/waka-readme-stats@V4.1.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -31,10 +32,80 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
         continue-on-error: true
       
-      - name: Handle WakaTime API timeout
-        if: failure()
+      - name: Wait before retry on API timeout
+        if: failure() && steps.wakatime_first_try.outcome == 'failure'
         run: |
-          echo "⚠️ WakaTime workflow failed, likely due to GitHub API timeout"
-          echo "This is a known issue with the GitHub GraphQL API and will be retried on next run"
-          echo "The failure does not affect repository functionality"
+          echo "⏳ First attempt failed. Waiting 60 seconds before retry to allow API recovery..."
+          sleep 60
+      
+      - name: Update README with WakaTime Stats (Attempt 2)
+        id: wakatime_second_try
+        if: failure() && steps.wakatime_first_try.outcome == 'failure'
+        uses: anmol098/waka-readme-stats@V4.1.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "False" 
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_SHORT_INFO: "False"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+        continue-on-error: true
+
+      - name: Wait before final retry on persistent timeout
+        if: failure() && steps.wakatime_first_try.outcome == 'failure' && steps.wakatime_second_try.outcome == 'failure'
+        run: |
+          echo "⏳ Second attempt also failed. Waiting 120 seconds before final retry..."
+          sleep 120
+      
+      - name: Update README with WakaTime Stats (Final Attempt)
+        id: wakatime_final_try
+        if: failure() && steps.wakatime_first_try.outcome == 'failure' && steps.wakatime_second_try.outcome == 'failure'
+        uses: anmol098/waka-readme-stats@V4.1.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "False" 
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_SHORT_INFO: "False"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+        continue-on-error: true
+      
+      - name: Report workflow status
+        if: always()
+        run: |
+          echo "📊 WakaTime Workflow Status Report"
+          echo "=================================="
+          if [[ "${{ steps.wakatime_first_try.outcome }}" == "success" ]]; then
+            echo "✅ SUCCESS: WakaTime stats updated successfully on first attempt"
+          elif [[ "${{ steps.wakatime_second_try.outcome }}" == "success" ]]; then
+            echo "✅ SUCCESS: WakaTime stats updated successfully on second attempt"
+          elif [[ "${{ steps.wakatime_final_try.outcome }}" == "success" ]]; then
+            echo "✅ SUCCESS: WakaTime stats updated successfully on final attempt"
+          else
+            echo "❌ FAILED: All retry attempts exhausted"
+            echo "🔍 Likely causes:"
+            echo "  • GitHub GraphQL API experiencing high load/timeouts"
+            echo "  • WakaTime API rate limiting"
+            echo "  • Network connectivity issues"
+            echo ""
+            echo "🔄 Next scheduled run: Tomorrow at 7 AM UTC"
+            echo "⚡ Manual trigger available in Actions tab if urgent"
+            echo ""
+            echo "📋 This failure does not affect:"
+            echo "  • Repository functionality"
+            echo "  • Code contributions"
+            echo "  • Pull request workflows"
+          fi
           
