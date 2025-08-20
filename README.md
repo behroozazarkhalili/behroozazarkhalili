@@ -123,6 +123,7 @@ Linux                    12 hrs 48 mins      ███████████�
 
 
 
+<!--
 ## 📌 Pinned Repositories
 
 <p align="center">
@@ -142,3 +143,4 @@ Linux                    12 hrs 48 mins      ███████████�
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=peft&show_owner=true&description_lines_count=2" width="400" height="150" />
   </a>
 </p>
+-->
