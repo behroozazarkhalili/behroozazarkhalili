@@ -1,5 +1,50 @@
 {
   "extends": [
-    "config:base"
-  ]
+    "config:base",
+    "schedule:weekdays",
+    ":automergeMinor",
+    ":automergePatch"
+  ],
+  "enabledManagers": [
+    "github-actions"
+  ],
+  "github-actions": {
+    "enabled": true,
+    "automerge": true
+  },
+  "packageRules": [
+    {
+      "matchManagers": ["github-actions"],
+      "automerge": true,
+      "commitMessagePrefix": "⬆️ ",
+      "commitMessageTopic": "{{depName}}",
+      "commitMessageExtra": "to {{newVersion}}",
+      "prTitle": "⬆️ Update {{depName}} to {{newVersion}}"
+    }
+  ],
+  "schedule": [
+    "before 6am on Monday"
+  ],
+  "timezone": "UTC",
+  "labels": [
+    "dependencies",
+    "renovate"
+  ],
+  "assignees": [
+    "behroozazarkhalili"
+  ],
+  "reviewers": [
+    "behroozazarkhalili"
+  ],
+  "prConcurrentLimit": 5,
+  "branchConcurrentLimit": 10,
+  "prHourlyLimit": 2,
+  "commitMessageAction": "Update",
+  "commitMessageTopic": "{{depName}}",
+  "commitMessageExtra": "to {{newVersion}}",
+  "lockFileMaintenance": {
+    "enabled": false
+  },
+  "separateMinorPatch": false,
+  "rangeStrategy": "replace"
 }
