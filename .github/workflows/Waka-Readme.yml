@@ -36,14 +36,14 @@ jobs:
         continue-on-error: true
       
       - name: Wait before retry on API timeout
-        if: failure() && steps.wakatime_first_try.outcome == 'failure'
+        if: steps.wakatime_first_try.outcome == 'failure'
         run: |
           echo "⏳ First attempt failed. Waiting 60 seconds before retry to allow API recovery..."
           sleep 60
       
       - name: Update README with WakaTime Stats (Attempt 2)
         id: wakatime_second_try
-        if: failure() && steps.wakatime_first_try.outcome == 'failure'
+        if: steps.wakatime_first_try.outcome == 'failure'
         uses: anmol098/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -61,14 +61,14 @@ jobs:
         continue-on-error: true
 
       - name: Wait before final retry on persistent timeout
-        if: failure() && steps.wakatime_first_try.outcome == 'failure' && steps.wakatime_second_try.outcome == 'failure'
+        if: steps.wakatime_first_try.outcome == 'failure' && steps.wakatime_second_try.outcome == 'failure'
         run: |
           echo "⏳ Second attempt also failed. Waiting 120 seconds before final retry..."
           sleep 120
       
       - name: Update README with WakaTime Stats (Final Attempt)
         id: wakatime_final_try
-        if: failure() && steps.wakatime_first_try.outcome == 'failure' && steps.wakatime_second_try.outcome == 'failure'
+        if: steps.wakatime_first_try.outcome == 'failure' && steps.wakatime_second_try.outcome == 'failure'
         uses: anmol098/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
