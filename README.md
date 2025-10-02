@@ -4,6 +4,7 @@
 
 With nine years of deep immersion, I architect, train, and optimize state-of-the-art ML, DL, and LLM systems — spanning NLP, computer vision, speech, and multimodal architectures that truly understand the world.
 
+<!---
 ## ⚙️ Core Expertise
 
 ### 🧠 LLM Fine-Tuning
@@ -18,6 +19,7 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 ### 🔄 Full ML Lifecycle
 - **End-to-End Pipelines:** Data ingestion → experimentation (MLflow, W&B) → scalable inference (AWS SageMaker, Gradio, Streamlit)
 
+-->
 ## 🛠️ Technical Stack
 
 <table>
