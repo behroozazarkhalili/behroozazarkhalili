@@ -170,18 +170,22 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 7 mins         █████████████░░░░░░░░░░░░   53.28 % 
+Markdown                 34 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+MDX                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+datasets                 1 hr 51 mins        ██████████████████████░░░   87.22 % 
+Resume-SFU               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/01/2026 07:08:20 UTC
+ Last Updated on 02/01/2026 07:08:51 UTC
 <!--END_SECTION:waka-->
