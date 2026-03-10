@@ -164,27 +164,31 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C579%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C583%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 36 mins       ██████████████████████░░░   86.46 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   4 hrs 58 mins       ███████████████░░░░░░░░░░   60.15 % 
+Markdown                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PricingData              4 hrs 10 mins       █████████████████████████   100.00 % 
+PricingData              6 hrs 46 mins       ████████████████████░░░░░   81.89 % 
+Resume-SFU               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+skill-eval-workspace     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2026 07:25:46 UTC
+ Last Updated on 10/03/2026 07:19:53 UTC
 <!--END_SECTION:waka-->
