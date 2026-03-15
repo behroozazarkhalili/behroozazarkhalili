@@ -170,26 +170,26 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 25 mins       ███████████████░░░░░░░░░░   60.76 % 
-Markdown                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Markdown                 2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.14 % 
+Python                   1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   38.23 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+TeX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PricingData              6 hrs 46 mins       ███████████████████░░░░░░   75.94 % 
-Resume-SFU               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-GATA                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-skill-eval-workspace     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+PricingData              2 hrs 36 mins       ██████████████░░░░░░░░░░░   54.86 % 
+Resume-SFU               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+GATA                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+skill-eval-workspace     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 💻 Operating System: 
-Linux                    8 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/03/2026 07:18:17 UTC
+ Last Updated on 15/03/2026 07:22:20 UTC
 <!--END_SECTION:waka-->
