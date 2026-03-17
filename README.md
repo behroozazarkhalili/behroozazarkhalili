@@ -164,32 +164,27 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C583%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C583%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.14 % 
-Python                   1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   38.23 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-TeX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Python                   26 mins             ███████████████░░░░░░░░░░   61.46 % 
+TeX                      14 mins             ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PricingData              2 hrs 36 mins       ██████████████░░░░░░░░░░░   54.86 % 
-Resume-SFU               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-GATA                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-skill-eval-workspace     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+GATA                     40 mins             ████████████████████████░   94.03 % 
+Resume-SFU               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 07:34:56 UTC
+ Last Updated on 17/03/2026 07:26:35 UTC
 <!--END_SECTION:waka-->
