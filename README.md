@@ -164,27 +164,30 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C583%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C584%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   26 mins             ███████████████░░░░░░░░░░   61.46 % 
-TeX                      14 mins             ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Markdown                 37 mins             █████████░░░░░░░░░░░░░░░░   37.82 % 
+Python                   26 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+JavaScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+TeX                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GATA                     40 mins             ████████████████████████░   94.03 % 
-Resume-SFU               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+GATA                     40 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
+AgentPricing             34 mins             █████████░░░░░░░░░░░░░░░░   34.58 % 
+Resume-SFU               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 💻 Operating System: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 07:26:35 UTC
+ Last Updated on 18/03/2026 07:26:44 UTC
 <!--END_SECTION:waka-->
