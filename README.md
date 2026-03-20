@@ -170,24 +170,21 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Markdown                 37 mins             █████████░░░░░░░░░░░░░░░░   37.82 % 
-Python                   26 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-JavaScript               21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-TeX                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Markdown                 37 mins             ████████████████░░░░░░░░░   63.92 % 
+JavaScript               21 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GATA                     40 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
-AgentPricing             34 mins             █████████░░░░░░░░░░░░░░░░   34.58 % 
-Resume-SFU               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+AgentPricing             34 mins             ███████████████░░░░░░░░░░   58.45 % 
+Resume-SFU               17 mins             ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Unknown Project          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 
 💻 Operating System: 
-Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
+Linux                    59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/03/2026 07:24:13 UTC
+ Last Updated on 20/03/2026 07:22:43 UTC
 <!--END_SECTION:waka-->
