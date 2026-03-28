@@ -164,30 +164,32 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C589%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C591%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 11 mins       █████████████████░░░░░░░░   69.49 % 
-Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-TeX                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Markdown                 4 hrs 34 mins       █████████████████░░░░░░░░   68.10 % 
+Python                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+TeX                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GATA                     2 hrs 32 mins       ██████████████░░░░░░░░░░░   55.39 % 
-Downloads                1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Unknown Project          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Resume-SFU               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+GATA                     3 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.91 % 
+Downloads                1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Resume-SFU               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Unknown Project          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+last30days-skill         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Linux                    4 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/03/2026 07:29:56 UTC
+ Last Updated on 28/03/2026 07:22:46 UTC
 <!--END_SECTION:waka-->
