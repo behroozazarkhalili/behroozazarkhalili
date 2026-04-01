@@ -164,32 +164,32 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C591%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C591%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 52 mins       ██████████████░░░░░░░░░░░   57.33 % 
-Python                   1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-TeX                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Markdown                 2 hrs 33 mins       ██████████████░░░░░░░░░░░   54.43 % 
+Python                   1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+TeX                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GATA                     3 hrs 13 mins       ████████████████░░░░░░░░░   64.17 % 
-Resume-SFU               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Downloads                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-last30days-skill         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+GATA                     3 hrs 13 mins       █████████████████░░░░░░░░   68.53 % 
+Resume-SFU               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Downloads                21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+last30days-skill         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+claude-temp-177440923143211 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 07:34:34 UTC
+ Last Updated on 01/04/2026 07:35:47 UTC
 <!--END_SECTION:waka-->
