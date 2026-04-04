@@ -170,26 +170,18 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        █████████████████░░░░░░░░   68.94 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Image (svg)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown                 20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Resume-SFU               52 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
-GATA                     42 mins             ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-Downloads                21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-last30days-skill         16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-claude-temp-177440923143211 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Resume-SFU               20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 07:31:08 UTC
+ Last Updated on 04/04/2026 07:25:30 UTC
 <!--END_SECTION:waka-->
