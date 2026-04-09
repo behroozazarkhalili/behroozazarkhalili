@@ -164,24 +164,30 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C591%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C595%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Diff                     1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.08 % 
+TeX                      1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
+HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ACL-ARR-Oct-2025         3 hrs 17 mins       ███████████████████████░░   93.41 % 
+Resume-SFU               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+last30days-skill         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/04/2026 07:35:42 UTC
+ Last Updated on 09/04/2026 07:36:22 UTC
 <!--END_SECTION:waka-->
