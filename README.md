@@ -164,30 +164,32 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C595%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Diff                     1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.08 % 
-TeX                      1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
-HTML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Diff                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+TeX                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ACL-ARR-Oct-2025         3 hrs 17 mins       ███████████████████████░░   93.41 % 
-Resume-SFU               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-last30days-skill         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+ACL-ARR-Oct-2025         3 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.77 % 
+HF-TRL                   2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Borealis-MITACS          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+hf-download-stats        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Resume-SFU               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 Operating System: 
-Linux                    3 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/04/2026 07:36:23 UTC
+ Last Updated on 11/04/2026 07:24:54 UTC
 <!--END_SECTION:waka-->
