@@ -164,32 +164,32 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Python                   1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Diff                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-TeX                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Other                    2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Python                   1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+TeX                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Diff                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HF-TRL                   4 hrs 55 mins       █████████████░░░░░░░░░░░░   51.42 % 
-ACL-ARR-Oct-2025         3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
-Borealis-MITACS          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-hf-download-stats        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Resume-SFU               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+HF-TRL                   5 hrs 8 mins        █████████████░░░░░░░░░░░░   51.98 % 
+ACL-ARR-Oct-2025         3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.27 % 
+Borealis-MITACS          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+hf-download-stats        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Resume-SFU               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Linux                    9 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2026 07:33:27 UTC
+ Last Updated on 13/04/2026 07:38:40 UTC
 <!--END_SECTION:waka-->
