@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C607%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C609%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.10 % 
-Bash                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Markdown                 2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Python                   2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Other                    6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
+Bash                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Python                   2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Markdown                 2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 58 mins       ████████████████░░░░░░░░░   64.32 % 
-Unknown Editor           5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
+VS Code                  11 hrs 23 mins      █████████████████░░░░░░░░   67.30 % 
+Unknown Editor           5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.70 % 
 
 🐱‍💻 Projects: 
-HF-TRL                   8 hrs 31 mins       ██████████████░░░░░░░░░░░   54.95 % 
-post-training-toolkit    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Resume-SFU               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Unknown Project          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Borealis-MITACS          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HF-TRL                   9 hrs 45 mins       ██████████████░░░░░░░░░░░   57.70 % 
+post-training-toolkit    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Resume-SFU               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Unknown Project          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Borealis-MITACS          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Linux                    15 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/04/2026 07:36:20 UTC
+ Last Updated on 17/04/2026 07:36:37 UTC
 <!--END_SECTION:waka-->
