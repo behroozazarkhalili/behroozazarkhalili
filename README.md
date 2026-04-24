@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C626%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C633%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Markdown                 5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-Bash                     3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-TeX                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Markdown                 6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Other                    5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Python                   5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Bash                     3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+TeX                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 17 mins      ██████████████████░░░░░░░   71.94 % 
-Unknown Editor           5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+Unknown Editor           12 hrs 7 mins       █████████████░░░░░░░░░░░░   50.38 % 
+VS Code                  11 hrs 56 mins      ████████████░░░░░░░░░░░░░   49.62 % 
 
 🐱‍💻 Projects: 
-HF-TRL                   7 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
-Unknown Project          4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Linux-Icons              3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-reasoning-benchmark      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Final_Exam_CMPT310       32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+HF-TRL                   6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+Borealis-MITACS          5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Unknown Project          4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Linux-Icons              3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+reasoning-benchmark      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 
 💻 Operating System: 
-Linux                    18 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/04/2026 07:37:48 UTC
+ Last Updated on 24/04/2026 07:39:56 UTC
 <!--END_SECTION:waka-->
