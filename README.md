@@ -170,27 +170,27 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-Python                   5 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Other                    5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Bash                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-TeX                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown                 5 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+Other                    5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Python                   5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Bash                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+TeX                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-Unknown Editor           15 hrs 39 mins      ████████████████░░░░░░░░░   64.86 % 
-VS Code                  8 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
+Unknown Editor           15 hrs 39 mins      ██████████████████░░░░░░░   73.73 % 
+VS Code                  5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
 
 🐱‍💻 Projects: 
-HF-TRL                   6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-Borealis-MITACS          6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Unknown Project          4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Linux-Icons              3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-reasoning-benchmark      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Borealis-MITACS          6 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+HF-TRL                   4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Linux-Icons              3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Unknown Project          3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+reasoning-benchmark      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 
 💻 Operating System: 
-Linux                    24 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    21 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/04/2026 07:34:33 UTC
+ Last Updated on 27/04/2026 07:50:10 UTC
 <!--END_SECTION:waka-->
