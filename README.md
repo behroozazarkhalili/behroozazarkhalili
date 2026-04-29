@@ -170,27 +170,27 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-Other                    5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Python                   5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Bash                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-TeX                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Markdown                 5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Python                   5 hrs               ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Other                    2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+TeX                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔥 Editors: 
-Unknown Editor           17 hrs 33 mins      ████████████████████░░░░░   78.94 % 
-VS Code                  4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Unknown Editor           17 hrs 41 mins      █████████████████████████   98.91 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          6 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-HF-TRL                   4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Unknown Project          3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Linux-Icons              3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-reasoning-benchmark      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Borealis-MITACS          6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.25 % 
+HF-TRL                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Unknown Project          3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+reasoning-benchmark      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Resume-SFU               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-Linux                    22 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/04/2026 07:49:47 UTC
+ Last Updated on 29/04/2026 07:46:17 UTC
 <!--END_SECTION:waka-->
