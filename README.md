@@ -170,27 +170,27 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
-TeX                      2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Other                    1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
+TeX                      2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Text                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🔥 Editors: 
-Unknown Editor           8 hrs 16 mins       █████████████████████████   98.41 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Unknown Editor           7 hrs 13 mins       █████████████████████████   98.18 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-Final_Exam_CMPT310       1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-Unknown Project          1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-HF-TRL                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Resume-SFU               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Borealis-MITACS          2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+Final_Exam_CMPT310       1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Unknown Project          1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Resume-SFU               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Google-Trends            32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-Linux                    8 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2026 07:35:37 UTC
+ Last Updated on 03/05/2026 07:38:40 UTC
 <!--END_SECTION:waka-->
