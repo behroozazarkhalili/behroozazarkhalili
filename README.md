@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C647%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C648%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.35 % 
-Markdown                 2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Other                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+TeX                      4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.76 % 
+Other                    2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Markdown                 1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Unknown Editor           11 hrs 29 mins      █████████████████████████   98.13 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Unknown Editor           9 hrs 25 mins       ████████████████████████░   96.53 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          5 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.08 % 
-Final_Exam_CMPT310       1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-HF-TRL                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Unknown Project          1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Resume-SFU               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Borealis-MITACS          5 hrs 23 mins       ██████████████░░░░░░░░░░░   55.23 % 
+Final_Exam_CMPT310       1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+HF-TRL                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+TAs                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Linux                    11 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/05/2026 07:59:09 UTC
+ Last Updated on 05/05/2026 07:42:03 UTC
 <!--END_SECTION:waka-->
