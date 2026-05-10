@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C669%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C673%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-TeX                      6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Other                    6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Markdown                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Bash                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Python                   8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+Other                    7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+TeX                      6 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Markdown                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 52 mins      ████████████████████░░░░░   81.23 % 
-Unknown Editor           4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+VS Code                  24 hrs 15 mins      █████████████████████░░░░   83.23 % 
+Unknown Editor           4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 
 🐱‍💻 Projects: 
-SFT-Paper-2026           7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-transformer-crosscoders  5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-notes                    3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Borealis-MITACS          3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-HF-TRL                   1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+transformer-crosscoders  8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+SFT-Paper-2026           7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+notes                    3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Borealis-MITACS          3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+transformer-circuits     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Linux                    25 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2026 07:36:56 UTC
+ Last Updated on 10/05/2026 07:45:20 UTC
 <!--END_SECTION:waka-->
