@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C683%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C686%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.78 % 
-Other                    6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Markdown                 4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-TeX                      2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Python                   10 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.50 % 
+Markdown                 5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Other                    4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Bash                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 2 mins       ██████████████████████░░░   86.31 % 
-Unknown Editor           3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+VS Code                  20 hrs 27 mins      ██████████████████████░░░   86.67 % 
+Unknown Editor           3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 
 🐱‍💻 Projects: 
-transformer-crosscoders  19 hrs 37 mins      ███████████████████░░░░░░   76.84 % 
-transformer-circuits     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-notes                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Unknown Project          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Borealis-MITACS          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+transformer-crosscoders  20 hrs 28 mins      ██████████████████████░░░   86.71 % 
+Borealis-MITACS          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+latex-notes              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+transformer-circuits     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Linux                    25 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2026 08:02:21 UTC
+ Last Updated on 14/05/2026 07:58:55 UTC
 <!--END_SECTION:waka-->
