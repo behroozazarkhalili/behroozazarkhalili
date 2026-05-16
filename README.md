@@ -164,33 +164,31 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C686%20hrs%209%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.50 % 
-Markdown                 5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Other                    4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Bash                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown                 8 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
+Python                   7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+Other                    5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Bash                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Shell                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 27 mins      ██████████████████████░░░   86.67 % 
-Unknown Editor           3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+VS Code                  22 hrs 34 mins      █████████████████████░░░░   85.39 % 
+Unknown Editor           3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 
 🐱‍💻 Projects: 
-transformer-crosscoders  20 hrs 28 mins      ██████████████████████░░░   86.71 % 
-Borealis-MITACS          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-latex-notes              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-transformer-circuits     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+transformer-crosscoders  19 hrs 21 mins      ██████████████████░░░░░░░   73.22 % 
+Resume-SFU               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+copilot-plugin-cc        2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Unknown Project          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+transformer-circuits     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Linux                    23 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/05/2026 07:58:55 UTC
+ Last Updated on 16/05/2026 07:39:22 UTC
 <!--END_SECTION:waka-->
