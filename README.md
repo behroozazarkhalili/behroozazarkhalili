@@ -164,8 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C768%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C772%20hrs-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   13 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   38.53 % 
+Markdown                 11 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Other                    5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Bash                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Shell                    39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+
+🔥 Editors: 
+VS Code                  33 hrs 36 mins      ███████████████████████░░   93.56 % 
+Claude Code              2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+
+🐱‍💻 Projects: 
+transformer-crosscoders  22 hrs 41 mins      ████████████████░░░░░░░░░   63.15 % 
+Resume-SFU               3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+GATA                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+copilot-plugin-cc        2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+transformer-circuits     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+
+💻 Operating System: 
+Linux                    35 hrs 55 mins      █████████████████████████   100.00 % 
+```
 
 
- Last Updated on 20/05/2026 08:12:15 UTC
+ Last Updated on 21/05/2026 08:15:45 UTC
 <!--END_SECTION:waka-->
