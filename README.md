@@ -164,31 +164,6 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   13 hrs 37 mins      ███████████░░░░░░░░░░░░░░   44.72 % 
-Markdown                 7 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Other                    5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Bash                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-TOML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-
-🔥 Editors: 
-VS Code                  28 hrs 32 mins      ███████████████████████░░   93.73 % 
-Claude Code              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-
-🐱‍💻 Projects: 
-transformer-crosscoders  20 hrs 39 mins      █████████████████░░░░░░░░   67.80 % 
-GATA                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-transformer-circuits     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Resume-SFU               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Borealis-MITACS          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-
-💻 Operating System: 
-Linux                    30 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 08:10:16 UTC
+ Last Updated on 23/05/2026 07:50:15 UTC
 <!--END_SECTION:waka-->
