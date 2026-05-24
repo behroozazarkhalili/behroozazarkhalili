@@ -164,6 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C777%20hrs%2021%20mins-blue?style=flat)
 
- Last Updated on 23/05/2026 07:50:15 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   10 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.80 % 
+Markdown                 6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Other                    4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 51 mins      ████████████████████████░   96.31 % 
+Claude Code              50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+
+🐱‍💻 Projects: 
+transformer-crosscoders  15 hrs 45 mins      █████████████████░░░░░░░░   69.44 % 
+GATA                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Borealis-MITACS          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+transformer-circuits     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Resume-SFU               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+
+💻 Operating System: 
+Linux                    22 hrs 41 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/05/2026 07:57:22 UTC
 <!--END_SECTION:waka-->
