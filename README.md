@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C785%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.01 % 
-Markdown                 5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Other                    4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python                   11 hrs 19 mins      ████████████░░░░░░░░░░░░░   46.80 % 
+Markdown                 7 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Text                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 49 mins      ████████████████████████░   95.97 % 
-Claude Code              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+VS Code                  23 hrs 3 mins       ████████████████████████░   95.34 % 
+Claude Code              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🐱‍💻 Projects: 
-transformer-crosscoders  13 hrs 47 mins      █████████████████░░░░░░░░   66.75 % 
-GATA                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Borealis-MITACS          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-transformer-circuits     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Resume-SFU               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+transformer-crosscoders  16 hrs 19 mins      █████████████████░░░░░░░░   67.48 % 
+GATA                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Borealis-MITACS          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Shamime-Rahmat           55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+transformer-circuits     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Linux                    20 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/05/2026 08:33:56 UTC
+ Last Updated on 26/05/2026 08:16:05 UTC
 <!--END_SECTION:waka-->
