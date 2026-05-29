@@ -164,33 +164,6 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%2044%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   35.06 % 
-TeX                      10 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Markdown                 6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Other                    3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Text                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-🔥 Editors: 
-VS Code                  33 hrs 35 mins      ███████████████████████░░   93.64 % 
-Claude Code              2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-
-🐱‍💻 Projects: 
-transformer-crosscoders  28 hrs 40 mins      ████████████████████░░░░░   79.91 % 
-ACL-ARR-Oct-2025         1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Shamime-Rahmat           1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-transformer-circuits     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-priority_sync            1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-
-💻 Operating System: 
-Linux                    35 hrs 52 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 08:21:45 UTC
+ Last Updated on 29/05/2026 08:20:23 UTC
 <!--END_SECTION:waka-->
