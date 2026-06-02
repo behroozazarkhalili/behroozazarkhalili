@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C841%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C844%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      21 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
-Python                   13 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Markdown                 11 hrs              █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Other                    3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Bash                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TeX                      21 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
+Python                   12 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Markdown                 11 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Other                    3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JSON                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-VS Code                  50 hrs 47 mins      ████████████████████████░   96.34 % 
-Claude Code              1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+VS Code                  49 hrs 18 mins      ████████████████████████░   96.75 % 
+Claude Code              1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-transformer-crosscoders  42 hrs 17 mins      ████████████████████░░░░░   80.20 % 
-ACL-ARR-Oct-2025         4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-transformer-circuits     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-priority_sync            2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Shamime-Rahmat           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+transformer-crosscoders  41 hrs 26 mins      ████████████████████░░░░░   81.29 % 
+ACL-ARR-Oct-2025         4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+transformer-circuits     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+priority_sync            2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Shamime-Rahmat           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Linux                    52 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 08:53:43 UTC
+ Last Updated on 02/06/2026 08:34:19 UTC
 <!--END_SECTION:waka-->
