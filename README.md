@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C892%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C897%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Python                   6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-TeX                      4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-TypeScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Other                    2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Markdown                 10 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Python                   7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+TeX                      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+TypeScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Other                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 25 mins      ████████████████████████░   95.18 % 
-Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+VS Code                  29 hrs 25 mins      ████████████████████████░   95.64 % 
+Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🐱‍💻 Projects: 
-trl                      6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Resume-SFU               4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Personal-Website         3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-transformer-crosscoders-p3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Latex_interview-Files    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+trl                      7 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Borealis-MITACS          3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Resume-SFU               3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Personal-Website         3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Latex_interview-Files    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 💻 Operating System: 
-Linux                    27 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 09:11:09 UTC
+ Last Updated on 16/06/2026 08:58:25 UTC
 <!--END_SECTION:waka-->
