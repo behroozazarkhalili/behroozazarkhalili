@@ -164,34 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C941%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C951%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   36.65 % 
-Python                   17 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   33.69 % 
-TeX                      6 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Other                    3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Bash                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown                 19 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.07 % 
+Python                   18 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.78 % 
+TeX                      6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Bash                     3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other                    3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-VS Code                  46 hrs 47 mins      ██████████████████████░░░   89.06 % 
-Claude Code              5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  40 hrs 42 mins      ██████████████████░░░░░░░   72.78 % 
+Claude Code              15 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          24 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.48 % 
-transformer-crosscoders  8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-trl                      6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Resume-SFU               3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-transformer-crosscoders-p2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Borealis-MITACS          23 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.58 % 
+transformer-crosscoders  9 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+trl                      4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Resume-SFU               3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+structlens-submission    3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 💻 Operating System: 
-Linux                    52 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    55 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2026 09:05:18 UTC
+ Last Updated on 23/06/2026 08:13:58 UTC
 <!--END_SECTION:waka-->
