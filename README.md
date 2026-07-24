@@ -164,34 +164,6 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C083%20hrs%2019%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TeX                      23 hrs 24 mins      ████████████░░░░░░░░░░░░░   47.41 % 
-Python                   11 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Markdown                 8 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Shell                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-
-🔥 Editors: 
-Claude Code              47 hrs 24 mins      ████████████████████████░   95.99 % 
-VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🐱‍💻 Projects: 
-transformer-crosscoders  22 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.21 % 
-Proposal-PhD             11 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-transformer-circuits     4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-transformer-crosscoders-p4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-paper                    2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-
-💻 Operating System: 
-Linux                    49 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/07/2026 09:24:02 UTC
+ Last Updated on 24/07/2026 09:21:28 UTC
 <!--END_SECTION:waka-->
