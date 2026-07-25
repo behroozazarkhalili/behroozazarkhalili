@@ -164,6 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C184%20hrs%2022%20mins-blue?style=flat)
 
- Last Updated on 24/07/2026 09:21:28 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      24 hrs 41 mins      █████████████░░░░░░░░░░░░   53.83 % 
+Python                   7 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Markdown                 7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Text                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+
+🔥 Editors: 
+Claude Code              43 hrs 46 mins      ████████████████████████░   95.42 % 
+VS Code                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Copilot CLI              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+
+🐱‍💻 Projects: 
+transformer-crosscoders  22 hrs 58 mins      █████████████░░░░░░░░░░░░   50.10 % 
+Proposal-PhD             15 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
+paper                    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+trl                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Resume-SFU               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+
+💻 Operating System: 
+Linux                    45 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/07/2026 09:00:15 UTC
 <!--END_SECTION:waka-->
