@@ -164,6 +164,62 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C162%20hrs%2058%20mins-blue?style=flat)
 
- Last Updated on 28/07/2026 09:36:07 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-625%20hrs%2034%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      27 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.79 % 
+Markdown                 11 hrs 40 mins      █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Python                   8 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Text                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+BST                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+🔥 Editors: 
+Claude Code              52 hrs 48 mins      ████████████████████████░   94.17 % 
+Copilot CLI              1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+VS Code                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+
+🐱‍💻 Projects: 
+transformer-crosscoders  28 hrs 26 mins      █████████████░░░░░░░░░░░░   50.73 % 
+Proposal-PhD             10 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+transformer-crosscoders-p4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+paper_5th                3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+transformer-circuits     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+
+💻 Operating System: 
+Linux                    56 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 55 hrs 43 mins (99.36%)
+
+✍️ 19,797 lines written by AI, 106 lines written by hand (99.47% AI-written)
+
+🔤 1,853,822,586 Input Tokens, 7,217,705 Output Tokens
+
+💵 $9466.66 Estimated AI Cost This Week
+
+🧠 91 AI Sessions, 763 AI Prompts
+
+Opus                     19,868 lines        █████████████████████████   98.44 % 
+Fable                    314 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.47% of written lines came from AI
+📚 Verbose Prompter — average 1,781 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 09:36:56 UTC
 <!--END_SECTION:waka-->
