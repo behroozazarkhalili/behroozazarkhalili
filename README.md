@@ -164,62 +164,62 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C174%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C177%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-636%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-640%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      17 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   36.73 % 
-Markdown                 11 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Python                   10 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-HTML                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Bash                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+TeX                      13 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Markdown                 12 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Python                   8 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+HTML                     3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Bash                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-Claude Code              46 hrs 2 mins       ████████████████████████░   94.44 % 
-Copilot CLI              1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-VS Code                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Claude Code              42 hrs 22 mins      ████████████████████████░   94.54 % 
+VS Code                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Copilot CLI              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🐱‍💻 Projects: 
-transformer-crosscoders  18 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   37.37 % 
-Borealis-MITACS          8 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Proposal-PhD             5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-transformer-crosscoders-p4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-paper_5th                3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+transformer-crosscoders  13 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Borealis-MITACS          8 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+transformer-crosscoders-p4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+paper_5th                3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Proposal-PhD             2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-Linux                    48 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 21 mins (99.19%)
+⏱ AI Coding Time: 44 hrs 10 mins (98.56%)
 
-✍️ 26,047 lines written by AI, 105 lines written by hand (99.6% AI-written)
+✍️ 26,220 lines written by AI, 107 lines written by hand (99.59% AI-written)
 
-🔤 1,662,802,244 Input Tokens, 6,000,979 Output Tokens
+🔤 1,545,021,299 Input Tokens, 5,036,920 Output Tokens
 
-💵 $8657.33 Estimated AI Cost This Week
+💵 $7843.56 Estimated AI Cost This Week
 
-🧠 84 AI Sessions, 643 AI Prompts
+🧠 59 AI Sessions, 584 AI Prompts
 
-Opus                     26,192 lines        █████████████████████████   98.82 % 
-Fable                    314 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     26,637 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 2,438 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+🤖 AI-Driven — 99.59% of written lines came from AI
+📚 Verbose Prompter — average 2,547 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 09:44:45 UTC
+ Last Updated on 01/08/2026 09:05:50 UTC
 <!--END_SECTION:waka-->
