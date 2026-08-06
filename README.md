@@ -164,34 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C189%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C195%20hrs%2015%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 35 mins      ███████████░░░░░░░░░░░░░░   45.17 % 
-Python                   6 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-HTML                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Bash                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-TeX                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 9 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
+Python                   6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+HTML                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+JavaScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 30 mins      ███████████████████████░░   92.08 % 
-VS Code                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Copilot CLI              53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Claude Code              22 hrs 22 mins      ███████████████████████░░   91.78 % 
+VS Code                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Copilot CLI              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          8 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-NeurIPS.cc_2026_Conferenc4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Resume-SFU               4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-trl                      3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Proposal-PhD             2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+HF-TRL                   5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Resume-SFU               5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+NeurIPS.cc_2026_Conferenc4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+trl                      3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+CelPip                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 
 💻 Operating System: 
-Linux                    27 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/08/2026 09:36:35 UTC
+ Last Updated on 06/08/2026 09:39:21 UTC
 <!--END_SECTION:waka-->
