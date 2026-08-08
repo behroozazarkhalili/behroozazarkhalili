@@ -164,6 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C205%20hrs%2054%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 08:13:34 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   12 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   36.33 % 
+Markdown                 11 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   34.87 % 
+Bash                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+JavaScript               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Other                    1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+
+🔥 Editors: 
+Claude Code              32 hrs 6 mins       ███████████████████████░░   93.81 % 
+VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Copilot CLI              58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+
+🐱‍💻 Projects: 
+HF-TRL                   11 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
+trl                      7 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Resume-SFU               5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+CelPip                   3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+NeurIPS.cc_2026_Conferenc3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+
+💻 Operating System: 
+Linux                    34 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/08/2026 07:49:36 UTC
 <!--END_SECTION:waka-->
