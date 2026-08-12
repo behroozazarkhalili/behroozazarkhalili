@@ -170,28 +170,28 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.33 % 
-Markdown                 7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-Bash                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-JavaScript               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Other                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Python                   9 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.87 % 
+Markdown                 4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+JavaScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Bash                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 53 mins      ███████████████████████░░   93.19 % 
-VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Copilot CLI              44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Claude Code              19 hrs 50 mins      ████████████████████████░   95.68 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-HF-TRL                   10 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.87 % 
-trl                      6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-CelPip                   3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-NeurIPS.cc_2026_Conferenc2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Resume-SFU               2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+HF-TRL                   9 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.73 % 
+trl                      4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+CelPip                   3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Resume-SFU               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+ObsidianVault            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Linux                    25 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/08/2026 08:09:25 UTC
+ Last Updated on 12/08/2026 08:17:13 UTC
 <!--END_SECTION:waka-->
