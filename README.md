@@ -170,30 +170,29 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.12 % 
-Other                    5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Markdown                 4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Other                    5 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
+Python                   5 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
+Markdown                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 53 mins      ████████████████████░░░░░   80.01 % 
-Codex CLI                1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-VS Code                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Codex Exec               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Claude Code              13 hrs              ████████████████████░░░░░   78.59 % 
+Codex CLI                1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+VS Code                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Codex Exec               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          14 hrs 36 mins      ████████████████████░░░░░   78.54 % 
-Anthropic-XAI            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-trl                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Unknown Project          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Downloads                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Borealis-MITACS          12 hrs 47 mins      ███████████████████░░░░░░   77.32 % 
+Anthropic-XAI            1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+trl                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Unknown Project          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Downloads                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Linux                    18 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/09/2026 07:13:36 UTC
+ Last Updated on 11/09/2026 07:13:37 UTC
 <!--END_SECTION:waka-->
