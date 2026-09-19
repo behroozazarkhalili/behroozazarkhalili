@@ -164,34 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C288%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C288%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Markdown                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-TeX                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Python                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Other                    2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Markdown                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+TeX                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Python                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 27 mins       █████████████████████████   99.13 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Claude Code              6 hrs 35 mins       █████████████████████████   99.14 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          6 hrs 12 mins       ████████████████████████░   95.18 % 
-ObsidianVault            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Borealis-MITACS          6 hrs 19 mins       ████████████████████████░   95.27 % 
+ObsidianVault            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 decisions                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-daily                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+daily                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Projects                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    6 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/09/2026 07:14:32 UTC
+ Last Updated on 19/09/2026 07:12:23 UTC
 <!--END_SECTION:waka-->
