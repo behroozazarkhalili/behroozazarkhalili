@@ -170,25 +170,25 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs               ████████░░░░░░░░░░░░░░░░░   31.45 % 
-Markdown                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-TeX                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Other                    1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   30.66 % 
+Markdown                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+TeX                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 21 mins       █████████████████████████   99.28 % 
+Claude Code              6 hrs 16 mins       █████████████████████████   99.27 % 
 VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          6 hrs 11 mins       ████████████████████████░   96.85 % 
-ObsidianVault            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Borealis-MITACS          6 hrs 7 mins        ████████████████████████░   96.82 % 
+ObsidianVault            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Linux                    6 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/09/2026 07:12:40 UTC
+ Last Updated on 21/09/2026 07:24:06 UTC
 <!--END_SECTION:waka-->
