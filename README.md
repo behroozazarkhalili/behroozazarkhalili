@@ -164,33 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C290%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C291%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-Other                    2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-Markdown                 1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Python                   1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TeX                      2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Markdown                 2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Other                    2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 33 mins       ████████████████████████░   97.70 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              8 hrs               ████████████████████████░   97.41 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          7 hrs 24 mins       ████████████████████████░   95.81 % 
-ObsidianVault            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Desktop                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Proposal-PhD             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Borealis-MITACS          6 hrs 52 mins       █████████████████████░░░░   83.71 % 
+Downloads                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+ObsidianVault            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Desktop                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+concepts                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Linux                    7 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/09/2026 07:15:05 UTC
+ Last Updated on 23/09/2026 07:15:54 UTC
 <!--END_SECTION:waka-->
