@@ -164,33 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C291%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C293%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-Markdown                 2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
-Other                    2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Python                   2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.87 % 
+TeX                      1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Markdown                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Other                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Claude Code              8 hrs               ████████████████████████░   97.41 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Claude Code              6 hrs 34 mins       ████████████████████████░   95.74 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-Borealis-MITACS          6 hrs 52 mins       █████████████████████░░░░   83.71 % 
-Downloads                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-ObsidianVault            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Desktop                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-concepts                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Borealis-MITACS          5 hrs 39 mins       █████████████████████░░░░   82.41 % 
+Downloads                1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Desktop                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+krch_review_norename     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+ObsidianVault            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    8 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/09/2026 07:15:54 UTC
+ Last Updated on 24/09/2026 07:16:06 UTC
 <!--END_SECTION:waka-->
