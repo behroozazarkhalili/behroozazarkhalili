@@ -170,27 +170,27 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.50 % 
-Markdown                 12 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   33.03 % 
-Other                    3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-TeX                      1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Python                   10 hrs 28 mins      ████████████░░░░░░░░░░░░░   47.73 % 
+Markdown                 5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+TeX                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Bash                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-Claude Code              38 hrs 10 mins      █████████████████████████   99.46 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Claude Code              21 hrs 45 mins      █████████████████████████   99.15 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-transformer-crosscoders  21 hrs 49 mins      ██████████████░░░░░░░░░░░   56.89 % 
-datasets                 5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Borealis-MITACS          3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-structlens-submission    2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-transformer-circuits     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+transformer-crosscoders  9 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.55 % 
+datasets                 5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Borealis-MITACS          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+structlens-submission    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+paper                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Linux                    38 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/10/2026 07:19:14 UTC
+ Last Updated on 04/10/2026 09:06:06 UTC
 <!--END_SECTION:waka-->
