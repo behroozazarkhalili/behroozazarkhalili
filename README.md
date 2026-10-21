@@ -164,36 +164,36 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C429%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C431%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Python                   20 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-Other                    18 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Text                     4 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-TeX                      2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 19 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Other                    18 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.20 % 
+Python                   15 hrs              ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Text                     3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Bash                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Claude Code              70 hrs 15 mins      ████████████████████████░   97.52 % 
-Codex Exec               1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Copilot                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              60 hrs 47 mins      ████████████████████████░   97.15 % 
+Codex Exec               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Copilot                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-transformer-crosscoders  16 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-SLMs                     15 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-draft                    6 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-NLP-Course               5 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-03_b_main                4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+SLMs                     15 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+transformer-crosscoders  10 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Resume-SFU               7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+NLP-Course               6 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+draft                    5 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 
 💻 Operating System: 
-Linux                    72 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    62 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2026 07:17:15 UTC
+ Last Updated on 21/10/2026 07:19:00 UTC
 <!--END_SECTION:waka-->
