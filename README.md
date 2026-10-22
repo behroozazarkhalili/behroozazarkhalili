@@ -170,30 +170,28 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Other                    18 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Python                   15 hrs              ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Text                     3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Bash                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other                    16 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.97 % 
+Markdown                 14 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   31.62 % 
+Python                   8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Text                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Bash                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-Claude Code              60 hrs 47 mins      ████████████████████████░   97.15 % 
-Codex Exec               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Copilot                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              44 hrs 19 mins      ████████████████████████░   97.02 % 
+Codex Exec               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-SLMs                     15 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-transformer-crosscoders  10 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Resume-SFU               7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-NLP-Course               6 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-draft                    5 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+SLMs                     14 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Resume-SFU               7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+transformer-crosscoders  6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+NLP-Course               5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Desktop                  3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 💻 Operating System: 
-Linux                    62 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/10/2026 07:19:00 UTC
+ Last Updated on 22/10/2026 07:19:01 UTC
 <!--END_SECTION:waka-->
