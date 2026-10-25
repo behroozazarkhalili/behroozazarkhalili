@@ -164,34 +164,33 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Markdown                 6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Python                   4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Dart                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-TeX                      2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Python                   5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Other                    4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Dart                     4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+TeX                      3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 
 🔥 Editors: 
-Claude Code              25 hrs              █████████████████████████   98.55 % 
-VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              28 hrs              █████████████████████████   98.81 % 
+VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-Desktop                  10 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.36 % 
-Resume-SFU               7 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-SLMs                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-NLP-Course               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-tmp                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Desktop                  11 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.50 % 
+Resume-SFU               7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+SLMs                     5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+NLP-Course               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+ObsidianVault            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Linux                    25 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/10/2026 07:12:05 UTC
+ Last Updated on 25/10/2026 07:12:47 UTC
 <!--END_SECTION:waka-->
