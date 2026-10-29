@@ -164,34 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C461%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C461%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Python                   7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Dart                     7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-TeX                      7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Other                    3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Markdown                 8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Dart                     7 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Python                   7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+TeX                      7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Other                    3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🔥 Editors: 
-Claude Code              38 hrs 37 mins      █████████████████████████   98.25 % 
-Codex Exec               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Claude Code              37 hrs 45 mins      █████████████████████████   98.21 % 
+Codex Exec               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-Desktop                  19 hrs 51 mins      █████████████░░░░░░░░░░░░   50.54 % 
-SLMs                     12 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
-NLP-Course               4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-ObsidianVault            1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Borealis-MITACS          28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Desktop                  20 hrs 6 mins       █████████████░░░░░░░░░░░░   52.28 % 
+SLMs                     11 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+NLP-Course               4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+ObsidianVault            1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Borealis-MITACS          28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Linux                    39 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2026 07:10:22 UTC
+ Last Updated on 29/10/2026 07:10:18 UTC
 <!--END_SECTION:waka-->
