@@ -164,34 +164,34 @@ With nine years of deep immersion, I architect, train, and optimize state-of-the
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C466%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C476%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-TeX                      7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Dart                     5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Python                   4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Other                    3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Markdown                 10 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+TeX                      7 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Python                   6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Dart                     3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Other                    2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 16 mins      █████████████████████████   98.14 % 
-Codex Exec               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Claude Code              35 hrs 34 mins      ████████████████████████░   96.01 % 
+Codex Exec               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🐱‍💻 Projects: 
-Desktop                  13 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   41.97 % 
-SLMs                     8 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-NLP-Course               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-ObsidianVault            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-recurrent-looped-transfor1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Desktop                  12 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   34.80 % 
+SLMs                     12 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.94 % 
+NLP-Course               4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+transformer-crosscoders  3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+ObsidianVault            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Linux                    31 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/10/2026 07:07:14 UTC
+ Last Updated on 01/11/2026 07:07:47 UTC
 <!--END_SECTION:waka-->
